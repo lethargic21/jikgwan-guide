@@ -1,0 +1,8 @@
+pandas>=2.2
+numpy>=1.26
+statsmodels>=0.14.4
+scipy>=1.13
+matplotlib>=3.9
+pyarrow>=15
+requests>=2.31
+pdfplumber>=0.11

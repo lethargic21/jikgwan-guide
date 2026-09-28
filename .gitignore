@@ -1,0 +1,47 @@
+# secrets
+.env
+*.env
+
+# contest forms: filled/signed versions contain personal info (CLAUDE.md §3-4) - keep local
+forms/
+submission/*.hwp
+submission/*.pdf
+
+# python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+
+# OS / editor
+Thumbs.db
+desktop.ini
+.DS_Store
+.vscode/
+
+# large raw caches (reproducible from API)
+data/raw/api/
+
+# build artifacts
+submission/참고자료.zip
+
+# third-party KBO CSV copies (no license stated) - keep local, don't redistribute
+data/raw/kbo/*.csv
+data/processed/kbo_games_clean.csv
+
+# 데이터랩 수동 다운로드 원자료·캡처 (재배포 조건 미확인) - 로컬에만 둔다. 정리 목록(README.md)만 올린다
+data/raw/datalab/_zip/
+data/raw/datalab/D1/
+data/raw/datalab/D2/
+data/raw/datalab/D3/
+data/raw/screens/
+submission/_build/
+
+# 공개 저장소에서 제외: 작업 메모(개인 일정 포함), 주최 측 문서, 제출 전 자료
+CLAUDE.md
+AGENTS.md
+.claude/
+docs/공모요강.pdf
+docs/포스터.png
+submission/
+data/raw/datalab/*.pdf
