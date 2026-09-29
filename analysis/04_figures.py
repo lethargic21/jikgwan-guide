@@ -3,6 +3,7 @@
 - fig1_event_study.png      : 정규구장 통합, 경기일 전후 ±3일 계수
 - fig2_stadium_effects.png  : 구장별 경기일 외지인 방문 증가율(95% CI)
 - fig3_quadrant.png         : 유입(경기당 외지인 증가) × 체류(연전 끝난 다음날 잔존 효과)
+- fig3_quadrant_wide.png    : 같은 그림의 가로형(서식4 삽입용, 가로 12cm)
 - fig4_sido_stay.png        : 대전·부산 광역 단위 연전 전날·경기일·다음날 외지인 증가(명)
 - fig5_d1_lodging.png       : (보조) 구장 소재 시군구 관광소비 중 숙박 비중, 시즌 vs 비시즌 — 서술 통계
 """
@@ -84,14 +85,15 @@ def fig_stadium_effects():
     plt.close(fig)
 
 
-def fig_quadrant():
+def fig_quadrant(figsize=(6.2, 4.4), out="fig3_quadrant.png", note_y=-0.17, label_offsets=None):
+    """out=fig3_quadrant_wide.png는 서식4용 가로형(가로 12cm에서 세로를 줄인 판). 데이터·표기는 같다."""
     sh = pd.read_csv(TAB / "gameday_outsider_share_of_crowd.csv")[["stadium", "extra_outsiders_per_game_point"]]
     st = pd.read_csv(TAB / "gameday_stay_by_stadium.csv")
     st = st[st["var"] == "post_only"][["stadium", "pct", "pct_lo", "pct_hi", "pval"]]
     d = sh.merge(st, on="stadium")
     d["name"] = d.stadium.str.replace("(한밭·신구장)", "", regex=False)
     d["x"] = d.extra_outsiders_per_game_point / 1000
-    fig, ax = plt.subplots(figsize=(6.2, 4.4))
+    fig, ax = plt.subplots(figsize=figsize)
     ax.axhline(0, color=INK2, lw=0.8)
     xm = d.x.median()
     ax.axvline(xm, color=GRID, lw=1, ls="--")
@@ -101,7 +103,8 @@ def fig_quadrant():
         sig = r.pval < 0.05
         ax.vlines(r.x, r.pct_lo, r.pct_hi, color=INK, lw=1)
         ax.plot(r.x, r.pct, "o", ms=8, color=BLUE if sig else "white", mec=BLUE, mew=1.6, zorder=3)
-        ax.annotate(r.name, (r.x, r.pct), xytext=(6, 4), textcoords="offset points", fontsize=8.5, color=INK)
+        off = (label_offsets or {}).get(r.name, (6, 4))
+        ax.annotate(r.name, (r.x, r.pct), xytext=off, textcoords="offset points", fontsize=8.5, color=INK)
     ax.text(0.99, 0.03, "유입↑ · 체류≈0\n→ 우선 개입 구장", transform=ax.transAxes, ha="right", va="bottom",
             fontsize=8.5, color=INK2)
     ax.set_xlabel("유입: 경기 1회당 외지인 증가 (천 명, 2023.1~2026.8)")
@@ -109,11 +112,11 @@ def fig_quadrant():
     sig_names = d[(d.pval < 0.05) & (d.pct > 0)].name.tolist()
     extra = f" ({'·'.join(sig_names)}만 유의)" if sig_names else ""
     ax.set_title("경기날 몰려온 외지인, 다음날엔 거의 남지 않는다" + extra, loc="left")
-    ax.text(0, -0.17, "점=추정치(채운 점: p<0.05), 세로선=95% CI(Newey-West). 세로 점선=유입 중앙값.\n"
+    ax.text(0, note_y, "점=추정치(채운 점: p<0.05), 세로선=95% CI(Newey-West). 세로 점선=유입 중앙값.\n"
             "'연전 끝난 다음날'=홈경기 다음날 중 경기가 없는 날. 자료: 한국관광 데이터랩(지역별 방문자수), KBO 경기별 관중 기록",
             transform=ax.transAxes, fontsize=7, color=INK2, va="top")
     fig.tight_layout()
-    fig.savefig(FIG / "fig3_quadrant.png", dpi=300, bbox_inches="tight", facecolor="white")
+    fig.savefig(FIG / out, dpi=300, bbox_inches="tight", facecolor="white")
     plt.close(fig)
 
 
@@ -181,5 +184,6 @@ if __name__ == "__main__":
     fig_event_study()
     fig_stadium_effects()
     fig_quadrant()
+    fig_quadrant(figsize=(6.2, 3.5), out="fig3_quadrant_wide.png", note_y=-0.23, label_offsets={"수원": (-20, -15)})
     fig_sido_stay()
     fig_d1_lodging()

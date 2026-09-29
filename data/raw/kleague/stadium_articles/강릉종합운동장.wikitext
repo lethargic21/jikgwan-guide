@@ -1,0 +1,141 @@
+{{경기장 정보
+|이름 = 강릉종합운동장
+|전체이름 = 강릉종합운동장
+|원어이름 = {{lang|en|Gangneung Stadium}}
+|이전이름 = 강릉종합운동장 (1985년~2015년)<br />강릉종합경기장 (2015년~2023년)
+|다른명칭 = 강릉하이원아레나<ref>[[강원 FC]]의 국내 대회 홈 경기에서는 '강릉하이원아레나'라는 명칭을 사용한다.</ref>
+|사진= Gangneung Stadium2.jpg
+|사진설명 = 
+|위치 = [[대한민국]] [[강원특별자치도]] [[강릉시]] 종합운동장길 69 ([[교동 (강릉시)|교동]] 2-10번지)
+|좌표 = {{좌표|37.773561|N|128.897503|E|format=dms|display=inline, title}}
+|기공 = 1981년 1월 28일<ref name="한국향토문화전자대전">{{백과사전 인용|url=http://www.grandculture.net/ko/Contents?dataType=99&contents_id=GC00300360|제목=강릉종합경기장|백과사전=한국향토문화전자대전|출판사=한국학중앙연구원|access-date=2019-07-30|archive-date=2019-09-20|archive-url=https://web.archive.org/web/20190920140838/http://www.grandculture.net/ko/Contents?dataType=99&contents_id=GC00300360|url-status=}}</ref>
+|건설기간 = 4년 9개월
+|개장 = 1985년 10월 10일<ref name="전국공공체육시설현황">{{서적 인용|url=http://www.mcst.go.kr/kor/s_policy/dept/deptView.jsp?pSeq=1821&pDataCD=0417000000|제목=2023 전국 공공체육시설 현황 (2022년 12월말 기준)|출판사=대한민국 문화체육관광부|연도=2024}}</ref><ref name="한국향토문화전자대전"/>
+|보수 = 2015년 9월 21일 (리모델링)<ref name="뉴스1 2015-09-21">{{뉴스 인용|url=https://www.news1.kr/articles/?2433388|제목=전국체전 준비 막바지...강릉 종합운동장 리모델링 준공|출판사=뉴스1|날짜=2015-09-21|저자=서근영}}</ref>
+|확장 = 
+|폐장 = 
+|철거 = 
+|소유 = [[강릉시청]]<ref name="전국공공체육시설현황"/>
+|운영 = [[강릉시체육시설사업소]]<ref name="전국공공체육시설현황"/><ref name="강릉시체육시설사업소">{{웹 인용|url=https://www.gn.go.kr/gaf/sub02_02_01.do|제목=강릉종합경기장|출판사=강릉시체육시설사업소}}</ref>
+|설계 = 
+|건설 = 
+|도급 = 
+|건설비용 = 65억 5천 1백만 [[대한민국 원|원]]<ref name="전국공공체육시설현황"/>
+|표면 = 천연잔디 (필드), 우레탄 (트랙)
+|규모 = 필드: 103 × 68 [[미터|m]]<br />트랙: 400 [[미터|m]] × 8 레인
+|좌석 = 21,146석<ref name="전국공공체육시설현황"/><ref name="강릉시체육시설사업소"/>
+|수용인원 = 33,000명<ref name="전국공공체육시설현황"/>
+|개최대회 = [[2015년 전국체육대회]]<br />[[K리그 승강 플레이오프]]<br />[[K리그1]]<br />[[내셔널리그 (대한민국)|내셔널리그]] (2003년~2019년)<br />[[K3리그]] (2020년~현재)
+|홈경기장 = [[울산 HD FC|현대 호랑이 축구단]] (1987년~1989년)<br />[[FC 강릉]] (2003년~현재) <br /> [[강원 FC]] (2009년~현재)
+}}
+
+'''강릉종합운동장'''(江陵綜合競技場, {{lang|en|Gangneung Stadium}})은 [[대한민국]] [[강원특별자치도]] [[강릉시]]에 있는 스포츠 시설이다. [[강릉올림픽파크]] 내에 있으며, 육상용 트랙, 천연잔디 필드가 갖춰져 있는 다목적 경기장이다.
+
+== 역사 ==
+강릉종합운동장은 [[강원 FC]]와 [[FC 강릉|강릉시민축구단]]의 홈 구장으로 사용되고 있다. 부지 면적은 39,330m<sup>2</sup>이고, 연면적은 14,547m<sup>2</sup>이다.
+
+2009년 9월, 경기 결과와 진행 시간만 알 수 있던 기존의 구형 전광판을 경기 장면까지 볼 수 있는 풀컬러 신형 전광판으로 교체했다.<ref>{{뉴스 인용|제목=강원, 23년 만에 탈바꿈한 새 전광판 12일 경남전서 첫선!|url=http://joynews.inews24.com/php/news_view.php?g_menu=702210&g_serial=441881|출판사=조이뉴스24|저자=최용재|날짜=2009-09-10|확인날짜=2009-09-10}}</ref>
+
+[[강원 FC]]는 메인 홈 구장을 강릉에 두고 있으나, [[2018년 동계 올림픽]]을 앞두고 강릉종합운동장에 보안 시설이 설치될 예정이라 2017년에는 [[평창알펜시아스키점프센터]]를 메인 홈으로 이용했다.<ref>[http://sports.news.naver.com/kfootball/news/read.nhn?oid=421&aid=0002466583 마침표 찍은 강원? 아직 외국인과 홈구장이 남았다] - 뉴스1</ref> 이후 강원 FC는 메인 홈을 [[춘천송암스포츠타운]]으로 이전했다.
+
+한편, [[성남 FC|천안 일화]]가 당시 홈 경기장으로 쓰던 [[천안오룡경기장]]에 조명 시설이 없어서 야간경기가 불가피한 혹서기에 접어들자<ref>{{뉴스 인용| 제목=프로축구 천안 일화, `유랑극단' 신세|url=https://sports.news.naver.com/general/news/read.nhn?oid=001&aid=0004536759|출판사=연합뉴스|저자    =김영묵|날짜=1999-06-24}}</ref> 1999년 6월 23일부터 이 곳에서 홈 경기를 4회 치르기도 했다.
+
+[[2015년 전국체육대회]] 개최를 위해 2014년 8월부터 [[리모델링]] 공사가 시작되어 2015년 9월 21일에 준공되었다.<ref name="뉴스1 2015-09-21"/>
+
+[[하이원리조트]]가 [[강원특별자치도민프로축구단]] 측과의 명칭 사용권 협약을 맺어 2025년 6월 21일부터 [[강원 FC]]의 국내 대회 홈 경기 시에는 '강릉하이원아레나'({{lang|en|Gangneung High1 Arena}})라는 명칭으로 사용된다.<ref>{{뉴스 인용|url=https://www.fourfourtwo.co.kr/news/articleView.html?idxno=73981|제목=강원FC, 하이원리조트와 네이밍 스폰서 체결! 또 하나의 이름 ‘강릉하이원아레나’|출판사=포포투|날짜=2025-06-12|저자=정지훈}}</ref>
+
+== 기록 ==
+=== 1987년 대통령배 국제축구대회 ===
+{| class="wikitable" style="text-align:center;"
+|-
+!날짜
+!팀 1
+!스코어
+!팀 2
+!라운드
+|-
+|6월 9일||style="text-align:right;"|{{fb|MAR}}||0 - '''1'''||style="text-align:left;"|'''{{fb|AUS}}'''||B조
+|-
+|6월 9일||style="text-align:right;"|{{국기그림|아일랜드}} [[섐록 로버스 FC]]||0 - '''1'''||style="text-align:left;"|'''{{fb|CHL|이름=칠레 B팀}}'''||B조
+|-
+|6월 9일||style="text-align:right;"|'''{{fb|KOR|이름=대한민국 B팀}}'''||'''4''' - 0||style="text-align:left;"|{{국기그림|네덜란드}} [[포르튀나 시타르트]]||B조
+|-
+|}
+
+=== 1988년 대통령배 국제축구대회 ===
+{| class="wikitable" style="text-align:center;"
+|-
+!날짜
+!팀 1
+!스코어
+!팀 2
+!라운드
+|-
+|6월 22일||style="text-align:right;"|'''{{fb|IRQ}}'''||'''2''' - 1||style="text-align:left;"|{{fb|HUN}}||D조
+|-
+|6월 22일||style="text-align:right;"|{{fb|KOR|이름=대한민국 B팀}}||1 - '''2'''||style="text-align:left;"|{{국기그림|아르헨티나}} '''[[힘나시아 라플라타]]'''||D조
+|-
+|}
+
+=== 1989년 대통령배 국제축구대회 ===
+{| class="wikitable" style="text-align:center;"
+|-
+!날짜
+!팀 1
+!스코어
+!팀 2
+!라운드
+|-
+|6월 20일||style="text-align:right;"|{{국기그림|우루과이}} [[클루브 나시오날 데 풋볼]]||0 - '''1'''||style="text-align:left;"|{{국기그림|덴마크}} '''[[브뢴뷔 IF]]'''||B조
+|-
+|6월 20일||style="text-align:right;"|{{fb|KOR|이름=대한민국 화랑}}||1 - '''4'''||style="text-align:left;"|{{국기그림|체코슬로바키아}} '''[[체코슬로바키아]]'''||B조
+|-
+|}
+
+=== 1993년 대통령배 국제축구대회 ===
+{| class="wikitable" style="text-align:center;"
+|-
+!날짜
+!팀 1
+!스코어
+!팀 2
+!라운드
+|-
+|6월 20일||style="text-align:right;"|'''{{fb|CZE|이름=체코 선발}}'''||'''1''' - 0||style="text-align:left;"|{{fb|AUS|이름=오스트레일리아 B}}||B조
+|-
+|6월 20일||style="text-align:right;"|{{fb|ROU|이름=루마니아 선발}}||2 - 2||style="text-align:left;"|{{fb|KOR|이름=대한민국 상비군}}||B조
+|-
+|}
+
+== 각주 ==
+<references/>
+
+== 참고 문헌 ==
+{{참고 자료 시작}}
+* {{백과사전 인용|url=https://www.gn.go.kr/gaf/sub02_02_01.do|제목=강릉종합경기장|백과사전=한국향토문화전자대전|출판사=한국학중앙연구원}}
+* {{서적 인용|url=https://www.mcst.go.kr/kor/s_policy/dept/deptView.jsp?pSeq=1227&pDataCD=0408010000&pType=|제목=전국 공공체육 시설 현황 (2017년말 기준)|출판사=대한민국 문화체육관광부|연도=2019}}
+* {{서적 인용|url=https://www.mcst.go.kr/kor/s_policy/dept/deptView.jsp?pCurrentPage=1&pType=07&pTab=01&pSeq=1377&pDataCD=0417000000&pSearchType=01&pSearchWord=|제목=2019년 전국 공공체육시설 현황 (2018년말 기준)|출판사=대한민국 문화체육관광부|연도=2020}}
+* {{서적 인용|url=http://www.mcst.go.kr/kor/s_policy/dept/deptView.jsp?pSeq=1821&pDataCD=0417000000|제목=2023 전국 공공체육시설 현황 (2022년 12월말 기준)|출판사=대한민국 문화체육관광부|연도=2024}}
+{{참고 자료 끝}}
+
+== 같이 보기 ==
+* [[강릉올림픽파크]]
+* [[강릉올림픽파크 보조경기장]]
+
+== 외부 링크 ==
+* [https://www.gn.go.kr/gaf/contents.do?key=6244 강릉시체육시설사업소 - 강릉종합경기장]
+* [http://www.grandculture.net/ko/Contents?dataType=99&contents_id=GC00300360 한국향토문화대전 - 강릉종합경기장] {{웹아카이브|url=https://web.archive.org/web/20190920140838/http://www.grandculture.net/ko/Contents?dataType=99&contents_id=GC00300360}}
+* [https://terms.naver.com/entry.nhn?docId=2573993&cid=51890&categoryId=53757 네이버 지식백과 - 강릉종합경기장]
+
+{{위키데이터 속성 추적}}
+
+[[분류:1985년 설립]]
+[[분류:1985년 완공된 스포츠 시설]]
+[[분류:강릉시의 건축물]]
+[[분류:강릉시의 스포츠]]
+[[분류:대한민국의 육상 경기장]]
+[[분류:대한민국의 축구 경기장]]
+[[분류:강릉시의 육상 경기장]]
+[[분류:강릉시의 축구 경기장]]
+[[분류:강원 FC]]
+[[분류:울산 HD FC]]

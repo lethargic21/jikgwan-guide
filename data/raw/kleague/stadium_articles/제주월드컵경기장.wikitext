@@ -1,0 +1,212 @@
+{{경기장 정보
+| 이름 = 제주월드컵경기장
+| 전체이름 = 제주월드컵경기장
+| 원어이름 = {{lang|en|Jeju World Cup Stadium}}
+| 이전이름 = 
+| 별칭 = 윈드 포스 (Wind Force)
+| 그림 = Jejuwcstadium.jpg
+| 설명문 = 
+| 위치 = {{국기나라|대한민국}} [[제주특별자치도]] [[서귀포시]] 월드컵로 33 ([[법환동]] 914번지)
+| 좌표 = {{좌표|33.246212|N|126.509361|E|format=dms|display=inline, title}}
+| 기공 = 1999년 2월 20일<ref>{{백과사전 인용|url=http://www.doopedia.co.kr/doopedia/master/master.do?_method=view&MAS_IDX=101013000782186|제목=제주월드컵경기장|백과사전=두피디아|출판사=두산}}</ref><ref>{{뉴스 인용|url=https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=102&oid=001&aid=0004471026|제목=제주월드컵경기장 공기 3개월 단축|출판사=연합뉴스|저자=홍정표|날짜=1999-10-26}}</ref>
+| 건설기간 = 2년 10개월
+| 개장 = 2001년 12월 9일<ref name="전국공공체육시설현황">{{서적 인용|url=https://www.mcst.go.kr/kor/s_policy/dept/deptView.jsp?pSeq=1227&pDataCD=0408010000&pType=|제목=전국 공공체육 시설 현황 (2017년말 기준)|출판사=대한민국 문화체육관광부|연도=2019|쪽=60}}</ref><ref name="한국향토문화전자대전">{{백과사전 인용|url=http://www.grandculture.net/ko/Contents?dataType=99&contents_id=GC04601395|제목=제주월드컵경기장|백과사전=한국향토문화전자대전|출판사=한국학중앙연구원}}{{깨진 링크|url=http://www.grandculture.net/ko/Contents?dataType=99&contents_id=GC04601395 }}</ref><ref>{{뉴스 인용|url=https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=102&oid=001&aid=0000118923|제목=제주월드컵경기장 개장|출판사=연합뉴스|저자=홍정표|날짜=2001-12-09}}</ref>
+| 보수 = 
+| 확장 = 
+| 폐장 = 
+| 철거 = 
+| 소유 = [[제주특별자치도청]]<ref name="전국공공체육시설현황"/>
+| 운영 = [[서귀포시청]] 문화관광체육국<ref name="전국공공체육시설현황"/>
+| 표면 = 천연잔디
+| 건설비용 = 1,125억 [[대한민국 원|원]]<ref name="전국공공체육시설현황"/>
+| 건축가  = 일건건축 (황일인)
+| 건설 = 
+| 구조 엔지니어 = 
+| 서비스 엔지니어 = 
+| 프로젝트 매니저 = 
+| 도급회사 = 
+| 개최대회 = [[2002년 FIFA 월드컵]]<br />[[2005년 A3 챔피언스컵]]<br />[[2007년 FIFA U-17 월드컵]]<br />[[2017년 FIFA U-20 월드컵]]<br />[[K리그 승강 플레이오프]]<br />[[K리그1]] (2006년 ~ 현재)<br />[[K리그2]] (2020년)
+| 홈경기장 = [[제주 SK FC|제주 SK]] (2006년 ~ 현재)
+| 좌석 = 28,941석<ref name="전국공공체육시설현황"/><ref>2002년 FIFA 월드컵 당시 42,256 석, 2002년 FIFA 월드컵 후 35,657 석, 2013년 보수공사 후 29,791석</ref>
+| 수용인원 = 29,791명<ref name="전국공공체육시설현황"/>
+| 규모 = 필드: 117 × 78 [[미터|m]]
+}}
+
+'''제주월드컵경기장'''(濟州월드컵競技場, {{lang|en|Jeju World Cup Stadium}})은 [[대한민국]] [[제주특별자치도]] [[서귀포시]]에 있는 [[축구 전용 경기장]]이다. [[2002년 FIFA 월드컵]] 개최를 위해 42,256명 수용 규모로 건설되었다. 제주도의 강한 바람을 막고 공사비를 절감하기 위해, 특이하게 그라운드가 지하 14[[미터|m]] 깊이에 조성되었다. 2006년부터 [[제주 SK FC|제주 SK]]의 홈 경기장으로 사용되고 있다.
+
+== 역사 ==
+[[2002년 FIFA 월드컵]] 개최를 위해 1999년 2월 20일 기공하여 2001년 12월 9일 개장해 총 2년 동안 건설하였으며, 2002년 FIFA 월드컵을 치른 후에는 미리 가변석으로 조성된 8,000여 석 규모의 동쪽 스탠드를 떼어내어 인근의 [[강창학종합경기장]]으로 옮겨서 35,657석의 규모가 되었다. 2013년 두 차례의 걸친 보수공사로 관중석 약 5,500여석이 철거되었다.
+
+2002년에 [[태풍]] [[태풍 펑센|펑센]]과 [[태풍 루사|루사]]로 인해 지붕이 날아가는 피해를 입어 부실 공사를 했다는 비판을 받기도 했다.<ref>{{뉴스 인용|url=https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=101&oid=014&aid=0000030379| 저자=전태훤| 출판사=파이낸셜뉴스| 제목=풍림산업 부실시공 책임곤란|날짜=2002-09-01}}</ref>
+
+== 부대 시설 ==
+* 워터월드
+* 닥종이인형박물관
+* 익스트림아일랜드
+* 세계성문화박물관
+* 롯데시네마
+
+== 주변 시설 ==
+마트, 편의점, [[제주은행]] 등이 인접하고 있으며, 일주도로 [[시외버스]]의 종점인 [[서귀포시|서귀포]] 신 시외버스터미널이 있다.
+
+== 주요 경기 ==
+=== 2002년 FIFA 월드컵 ===
+{| class="wikitable" style="text-align:center;"
+|-
+!날짜
+!팀 1
+!스코어
+!팀 2
+!라운드
+|-
+|6월 8일||style="text-align:right;"|'''{{축구나라2|BRA}}'''||'''4''' - 0||style="text-align:left;"|{{축구나라|CHN}}||C조 2차전
+|-
+|6월 12일||style="text-align:right;"|{{축구나라2|SVN}}||1 - '''3'''||style="text-align:left;"|'''{{축구나라|PAR|1990}}'''||B조 3차전
+|-
+|6월 15일||style="text-align:right;"|'''{{축구나라2|GER}}'''||'''1''' - 0||style="text-align:left;"|{{축구나라|PAR|1990}}||16강전 1경기
+|}
+
+[[파일:Jeju United FC.JPG|right|섬네일|300px|2010년 11월 28일 전북 현대 모터스와의 경기 장면]]
+
+=== 2005년 A3 챔피언스컵 ===
+{| class="wikitable" style="text-align:center;"
+|-
+!날짜
+!팀 1
+!스코어
+!팀 2
+!라운드
+|-
+| rowspan="2" |2월 13일||style="text-align:right;"|{{국기그림|KOR}} [[포항 스틸러스]]||1 - 1||style="text-align:left;"|{{국기그림|JPN}} [[요코하마 F. 마리노스]]||
+|-
+| style="text-align:right;" |{{국기그림|CHN}} [[선전 젠리바오]]||1 - '''3'''||style="text-align:left;"|{{국기그림|KOR}} '''[[수원 삼성 블루윙즈]]'''||
+|-
+| rowspan="2" |2월 16일||style="text-align:right;"|{{국기그림|JPN}} '''[[요코하마 F. 마리노스]]'''||'''2''' - 0||style="text-align:left;"|{{국기그림|CHN}} [[선전 젠리바오]]||
+|-
+| style="text-align:right;" |{{국기그림|KOR}} [[수원 삼성 블루윙즈]]||2 - 2||style="text-align:left;"|{{국기그림|KOR}} [[포항 스틸러스]]||
+|-
+| rowspan="2" |2월 19일||style="text-align:right;"|{{국기그림|KOR}} '''[[수원 삼성 블루윙즈]]'''||'''3''' - 1||style="text-align:left;"|{{국기그림|JPN}} [[요코하마 F. 마리노스]]||
+|-
+| style="text-align:right;" |{{국기그림|KOR}} '''[[포항 스틸러스]]'''||'''2''' - 0||style="text-align:left;"|{{국기그림|CHN}} [[선전 젠리바오]]||
+|}
+
+=== 2007년 FIFA U-17 월드컵 ===
+{| class="wikitable" style="text-align:center;"
+|-
+!날짜
+!팀 1
+!스코어
+!팀 2
+!라운드
+|-
+| rowspan="2" |8월 18일||style="text-align:right;"|{{fb|PRK|U=17}}||0 - 0||style="text-align:left;"|{{fb|ENG|U=17}}|| rowspan="4" |B조
+|-
+| style="text-align:right;" |'''{{fb|BRA|U=17}}'''||'''7''' - 0||style="text-align:left;"|{{fb|NZL|U=17}}
+|-
+| rowspan="2" |8월 21일||style="text-align:right;"|{{fb|NZL|U=17}}||0 - '''5'''||style="text-align:left;"|'''{{fb|ENG|U=17}}'''
+|-
+| style="text-align:right;" |'''{{fb|BRA|U=17}}'''||'''6''' - 1||style="text-align:left;"|{{fb|PRK|U=17}}
+|-
+|2007년 8월 24일||style="text-align:right;"|'''{{fb|PER|U=17}}'''||'''1''' - 0||style="text-align:left;"|{{fb|CRC|U=17}}||A조
+|-
+| rowspan="2" |8월 25일||style="text-align:right;"|{{fb|HON|U=17}}||0 - '''2'''||style="text-align:left;"|'''{{fb|SYR|U=17}}'''||C조
+|-
+| style="text-align:right;" |'''{{fb|NGA|U=17}}'''||'''4''' - 1||style="text-align:left;"|{{fb|HAI|U=17}}||D조
+|-
+|8월 30일||style="text-align:right;"|'''{{fb|ENG|U=17}}'''||'''3''' - 1||style="text-align:left;"|{{fb|SYR|U=17}}||16강
+|-
+|9월 1일||style="text-align:right;"|'''{{fb|ESP|U=17}}'''||'''1(5)''' - 1(4)||style="text-align:left;"|{{fb|FRA|U=17}}||8강
+|}
+
+=== 2017년 아디다스 U-20 4개국 축구대회 ===
+{| class="wikitable" style="text-align:center;"
+|-
+!날짜
+!팀 1
+!스코어
+!팀 2
+!라운드
+|-
+| rowspan="2" |3월 30일||style="text-align:right;"|'''{{fb|ZAM|U=20}}'''||'''4''' - 1||style="text-align:left;"|{{fb|HON|U=20}}||
+|-
+| style="text-align:right;" |'''{{fb|ECU|U=20}}'''||'''2''' - 0||style="text-align:left;"|{{fb|KOR|U=20}}||
+|}
+
+=== 2017년 FIFA U-20 월드컵 ===
+{| class="wikitable" style="text-align:center;"
+|-
+!날짜
+!팀 1
+!스코어
+!팀 2
+!라운드
+|-
+| rowspan="2" |5월 21일||style="text-align:right;"|'''{{축구나라2|ZAM|U=20}}'''||'''2''' - 1||style="text-align:left;"|{{축구나라|POR|U=20}}|| rowspan="2" |C조
+|-
+| style="text-align:right;" |'''{{축구나라2|IRN|U=20}}'''||'''1''' - 0||style="text-align:left;"|{{축구나라|CRC|U=20}}
+|-
+|5월 26일||style="text-align:right;"|'''{{축구나라2|기니|U=20}}'''||0  - '''5'''||style="text-align:left;"|{{축구나라|아르헨티나|U=20}}||A조
+|}
+
+=== 2020년 하계 올림픽 축구 여자 아시아 지역 3차 예선 ===
+{| class="wikitable" style="text-align:center;"
+|-
+!날짜
+!팀 1
+!스코어
+!팀 2
+!라운드
+|-
+|2월 3일||style="text-align:right;"|{{fb|MMR}}||0 - '''7'''||style="text-align:left;"|'''{{fb|KOR}}'''|| rowspan="3" |A조
+|-
+|2월 6일||style="text-align:right;"|'''{{fb|VIE}}'''||'''1''' - 0||style="text-align:left;"|{{fb|MMR}}
+|-
+|2월 9일||style="text-align:right;"|'''{{fb|KOR}}'''||'''3''' - 0||style="text-align:left;"|{{fb|VIE}}
+|}
+
+== 수상 ==
+* 2001년 '한국건축물 걸작 7선'<ref>{{뉴스 인용| url=http://news.media.daum.net/culture/200202/27/donga/v2381934.html| 저자=이광표| 출판사=동아일보| 제목=2001 한국건축 걸작 발표| 날짜=2002-02-27}}{{깨진 링크|url=http://news.media.daum.net/culture/200202/27/donga/v2381934.html }}</ref>
+* 2001년 6월 '제13회 김수근 문화상'
+
+== 각주 ==
+<references/>
+
+== 참고 문헌 ==
+* {{백과사전 인용|url=http://www.grandculture.net/ko/Contents?dataType=99&contents_id=GC04601395|제목=제주월드컵경기장|백과사전=한국향토문화전자대전|출판사=한국학중앙연구원}}{{깨진 링크|url=http://www.grandculture.net/ko/Contents?dataType=99&contents_id=GC04601395 }}
+* {{백과사전 인용|url=http://www.doopedia.co.kr/doopedia/master/master.do?_method=view&MAS_IDX=101013000782186|제목=제주월드컵경기장|백과사전=두피디아|출판사=두산}}
+* {{서적 인용|url=https://www.mcst.go.kr/kor/s_policy/dept/deptView.jsp?pSeq=1227&pDataCD=0408010000&pType=|제목=전국 공공체육 시설 현황 (2017년말 기준)|출판사=대한민국 문화체육관광부|연도=2019}}
+
+== 같이 보기 ==
+* [[제주 SK FC]]
+
+== 외부 링크 ==
+{{위키공용분류}}
+* [http://www.seogwipo.go.kr/field/living/sportsfacilities/facilities/soccer.htm?act=view&idx=43 서귀포시청 - 제주월드컵경기장]
+* [https://web.archive.org/web/20191016122725/https://www.jeju-utd.com/fc/stadium.asp 제주 SK FC - 제주월드컵경기장]
+* [https://www.visitjeju.net/kr/detail/view?contentsid=CONT_000000000500566 비짓제주 - 제주월드컵경기장]
+* [http://www.grandculture.net/ko/Contents?dataType=99&contents_id=GC04601395 한국향토문화전자대전 - 제주월드컵경기장]{{깨진 링크|url=http://www.grandculture.net/ko/Contents?dataType=99&contents_id=GC04601395 }}
+* [http://www.doopedia.co.kr/doopedia/master/master.do?_method=view&MAS_IDX=101013000782186 두피디아 - 제주월드컵경기장]
+* [https://terms.naver.com/entry.nhn?docId=2657565&cid=51954&categoryId=55490 네이버 지식백과 - 제주월드컵경기장 (향토문화전자대전)]
+* [https://terms.naver.com/entry.nhn?docId=1209252&cid=40942&categoryId=33084 네이버 지식백과 - 제주월드컵경기장 (두산백과)]
+* [https://map.naver.com/local/siteview.nhn?code=11607840 네이버 지도 - 제주월드컵경기장]
+* [https://place.map.kakao.com/9406393 카카오맵 - 제주월드컵경기장]
+
+{{제주 SK FC}}
+{{K리그 경기장}}
+{{2002년 FIFA 월드컵 경기장}}
+{{2007년 FIFA U-17 월드컵 경기장}}
+{{2017년 FIFA U-20 월드컵 경기장}}
+
+{{전거 통제}}
+{{위키데이터 속성 추적}}
+
+[[분류:2001년 설립]]
+[[분류:2001년 완공된 스포츠 시설]]
+[[분류:서귀포시의 건축물]]
+[[분류:서귀포시의 스포츠]]
+[[분류:대한민국의 축구 경기장]]
+[[분류:서귀포시의 축구 경기장]]
+[[분류:대한민국의 2002년 FIFA 월드컵 경기장]]
+[[분류:2007년 FIFA U-17 월드컵 경기장]]
+[[분류:2017년 FIFA U-20 월드컵 경기장]]
+[[분류:제주 SK FC]]

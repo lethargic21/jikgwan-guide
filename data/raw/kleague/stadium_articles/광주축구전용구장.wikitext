@@ -1,0 +1,75 @@
+{{경기장 정보
+|이름 = 광주축구전용구장
+|전체이름 = 광주축구전용구장
+|원어이름 = {{lang|en|Gwangju Football Stadium}}
+|이전이름 = 광주월드컵경기장 보조경기장
+|사진 = 
+|사진설명 = 
+|위치 = [[대한민국]] [[전남광주통합특별시]] [[서구 (전남광주통합특별시)|서구]] 금화로 240 ([[풍암동]] 423-2번지)
+|좌표 = {{좌표|35.130921|N|126.874901|E|format=dms|display=inline, title}}
+|기공 = 1998년 11월 16일<ref name="두피디아">{{백과사전 인용|url=http://www.doopedia.co.kr/doopedia/master/master.do?_method=view&MAS_IDX=101013000781314|제목=광주월드컵경기장|백과사전=두피디아|출판사=두산}}</ref><ref>{{뉴스 인용|url=http://www.honam.co.kr/read.php3?aid=1480604400509621168|제목=월드컵경기장, 시민들의 공간으로 변화|출판사=무등일보|저자=김도윤, 전윤서, 정가은, 정은빈|날짜=2016-12-02}}</ref>
+|건설기간 = 3년 2개월
+|개장 = 2002년 1월 9일<ref name="전국공공체육시설현황">{{서적 인용|url=http://www.mcst.go.kr/kor/s_policy/dept/deptView.jsp?pSeq=1451&pDataCD=0417000000|제목=2020년 전국 공공체육시설 현황 (2019년말 기준)|출판사=대한민국 문화체육관광부|연도=2021}}</ref><ref>{{서적 인용|url=https://www.mcst.go.kr/kor/s_policy/dept/deptView.jsp?pSeq=1377&pDataCD=0417000000|제목=2019년 전국 공공체육시설 현황 (2018년말 기준)|출판사=대한민국 문화체육관광부|연도=2020}}</ref><ref>{{서적 인용|url=https://www.mcst.go.kr/kor/s_policy/dept/deptView.jsp?pSeq=1227&pDataCD=0408010000&pType=|제목=전국 공공체육 시설 현황 (2017년말 기준)|출판사=대한민국 문화체육관광부|연도=2019|쪽=8}}</ref><ref name="광주광역시체육회">{{웹 인용|url=https://www.gwangjusports.org:5032/bbs/board.php?bo_table=f0101&wr_id=29|제목=광주월드컵경기장 시설현황|출판사=광주광역시체육회}}{{깨진 링크|url=https://www.gwangjusports.org:5032/bbs/board.php?bo_table=f0101&wr_id=29 }}</ref>
+|보수 = 2020년 6월 30일 (리모델링)<ref name="전남매일 2020-06-30">{{뉴스 인용|url=http://www.jndn.com/article.php?aid=1592917200302512105|제목=광주축구전용구장 내달 25일 첫 경기|출판사=전남매일|날짜=2020-06-23|저자=최진화}}{{깨진 링크|url=http://www.jndn.com/article.php?aid=1592917200302512105 }}</ref>
+|확장 = 
+|폐장 = 
+|철거 = 
+|소유 = [[전남광주통합특별시청]]<ref name="전국공공체육시설현황"/>
+|운영 = [[광주광역시체육회]]<ref name="전국공공체육시설현황"/><ref name="광주광역시체육회"/>
+|설계 = 
+|도급 = 
+|건설 = 케이케이건설 (리모델링)<ref name="전남매일 2020-01-02">{{뉴스 인용|url=http://www.jndn.com/article.php?aid=1546441186273930105|제목=광주 축구전용구장 드디어 첫삽 뜬다|출판사=전남매일|날짜=2019-01-02|저자=최진화|확인날짜=2020-07-20|archive-date=2020-07-20|archive-url=https://web.archive.org/web/20200720151250/http://www.jndn.com/article.php?aid=1546441186273930105|url-status=}}</ref>
+|건설비용 = 164억 [[대한민국 원|원]] (리모델링)<ref>{{뉴스 인용|url=http://www.namdonews.com/news/articleView.html?idxno=566226|제목=광주FC, 축구전용구장 첫 경기는 '6월'|출판사=남도일보|날짜=2020-04-01|저자=송민섭}}</ref>
+|표면 = 천연잔디 (필드), 우레탄 (트랙)
+|규모 = 필드: 97 × 68 [[미터|m]]<br />트랙: 400 [[미터|m]] × 8 레인
+|좌석 = 10,007석<ref name="광주시민프로축구단">{{웹 인용|url=https://www.gwangjufc.com/fc/stadium.php|제목=광주축구전용구장|웹사이트=광주 FC|출판사=광주시민프로축구단}}</ref><ref>준공 당시 831석 규모로 건설되었고, 2020년에 리모델링 과정에서 10,007석 규모로 증축되었다.</ref>
+|수용인원 = 10,007명
+|개최대회 = [[R리그]]<br />[[K리그1]] (2020년~2024년)<br />[[K리그2]] (2022년)
+|홈경기장 = [[상무 축구단]] (2002년)<br />[[광주 상무 FC R]]<br />[[광주 FC]] (2020년~2024년)
+}}
+
+'''광주축구전용구장'''(光州蹴球專用球場, {{lang|en|Gwangju Football Stadium}})은 [[대한민국]] [[전남광주통합특별시]]에 있는 스포츠 시설이다. 천연잔디 필드와 우레탄 트랙이 갖춰진 경기장이며, 2002년 1월에 준공되었다.
+
+== 역사 ==
+1998년 11월 16일에 착공하여 2002년 1월 9일에 '광주월드컵경기장 보조경기장'으로 준공되었다.<ref name="두피디아"/> [[광주광역시청]]은 2016년에 축구전용경기장 조성 사업을 추진하기로 결정하고 대한민국 정부 국비 36억 원을 지원받아 2017년에 경기장 건립 사업을 진행하기 시작했다.<ref name="전남매일 2020-06-30"/><ref>{{뉴스 인용|url=https://newsis.com/view/?id=NISX20190103_0000519745&cID=10503&pID=10500|제목='광주 축구계 숙원' 축구전용구장 건립…12월 말 완공|출판사=뉴시스|날짜=2019-01-03|저자=류형근}}</ref> 2019년 1월, 같은 해 12월에 완공하는 것을 목표로 리모델링 공사가 시작되었다.<ref name="전남매일 2020-01-02"/> 리모델링 공사가 진행 중인 과정에서, [[K리그2]]에 속해있던 [[광주 FC]]가 [[K리그1]]으로 승격하면서, [[K리그1]] 개최 경기장 기준을 만족하기 위해 관중석을 증석하여 10,000석 규모로 변경되었다.<ref name="광주드림 2020-01-12">{{뉴스 인용|url=http://www.gjdream.com/news/articleView.html?idxno=502000|제목=광주FC 축구전용구장 홈 개막전 ‘무산’|출판사=광주드림|날짜=2020-01-12|저자=강경남}}</ref> 이로 인해 [[광주광역시청]]이 추경 예산을 편성하고 규모를 증설하는 과정에서 공사가 지연되었다.<ref name="광주드림 2020-01-12"/> '광주축구전용구장'이라는 가칭으로 진행되던 리모델링 공사가 2020년 6월 30일에 완료되었고,<ref name="전남매일 2020-06-30"/> 2020년 7월 25일부터 [[K리그1]] 경기가 개최되고 있다.<ref>{{뉴스 인용|url=http://news.kmib.co.kr/article/view.asp?arcid=0014820332&code=61161311&cp=nv|제목=광주, 무관중 속 ‘축구전용구장 시대’ 개막|출판사=국민일보|날짜=2020-07-20|저자=조효석}}</ref>
+
+== 각주 ==
+<references/>
+
+== 참고 문헌 ==
+{{참고 자료 시작}}
+* {{백과사전 인용|url=http://www.doopedia.co.kr/doopedia/master/master.do?_method=view&MAS_IDX=101013000781314|제목=광주월드컵경기장|백과사전=두피디아|출판사=두산}}
+* {{웹 인용|url=https://www.gwangjusports.org:5032/bbs/board.php?bo_table=f0101&wr_id=29|제목=광주월드컵경기장|출판사=광주광역시체육회}}{{깨진 링크|url=https://www.gwangjusports.org:5032/bbs/board.php?bo_table=f0101&wr_id=29 }}
+* {{웹 인용|url=http://sharegj.kr/app/resource_share/view?md_id=resource_share&category_code=85&area1=%EC%84%9C%EA%B5%AC&keyword=%EC%9B%94%EB%93%9C%EC%BB%B5&code=1358&page=1|제목=광주월드컵경기장|출판사=공유광주}}
+* {{서적 인용|url=https://www.mcst.go.kr/kor/s_policy/dept/deptView.jsp?pSeq=1227&pDataCD=0408010000&pType=|제목=전국 공공체육 시설 현황 (2017년말 기준)|출판사=대한민국 문화체육관광부|연도=2019}}
+* {{서적 인용|url=https://www.mcst.go.kr/kor/s_policy/dept/deptView.jsp?pSeq=1377&pDataCD=0417000000|제목=2019년 전국 공공체육시설 현황 (2018년말 기준)|출판사=대한민국 문화체육관광부|연도=2020}}
+* {{서적 인용|url=http://www.mcst.go.kr/kor/s_policy/dept/deptView.jsp?pSeq=1451&pDataCD=0417000000|제목=2020년 전국 공공체육시설 현황 (2019년말 기준)|출판사=대한민국 문화체육관광부|연도=2021}}
+* {{서적 인용|url=http://www.mcst.go.kr/kor/s_policy/dept/deptView.jsp?pSeq=1692&pDataCD=0417000000|제목=2022년 전국 공공체육시설 현황 (2021년말 기준)|출판사=대한민국 문화체육관광부|연도=2023}}
+* {{서적 인용|url=http://www.mcst.go.kr/kor/s_policy/dept/deptView.jsp?pSeq=1821&pDataCD=0417000000|제목=2023 전국 공공체육시설 현황 (2022년 12월말 기준)|출판사=대한민국 문화체육관광부|연도=2024}}
+{{참고 자료 끝}}
+
+== 같이 보기 ==
+* [[광주월드컵경기장]]
+* [[광주 FC]]
+
+== 외부 링크 ==
+* [https://www.gwangjusports.org/bbs/board.php?bo_table=f0101&wr_id=37 광주광역시체육회 - 광주축구전용구장] {{웹아카이브|url=https://web.archive.org/web/20210430024819/https://www.gwangjusports.org/bbs/board.php?bo_table=f0101&wr_id=37}}
+* [https://www.gwangjufc.com/fc/stadium.php 광주 FC - 광주축구전용구장]
+* [http://sharegj.kr/app/resource_share/view?md_id=resource_share&category_code=85&area1=%EC%84%9C%EA%B5%AC&keyword=%EC%9B%94%EB%93%9C%EC%BB%B5&code=1358&page=1 공유광주 - 광주월드컵경기장]
+* [https://web.archive.org/web/20080512225000/http://worldcup.gjcity.net/ 광주월드컵경기장 공식 웹페이지 (구)]
+* [http://www.doopedia.co.kr/doopedia/master/master.do?_method=view&MAS_IDX=101013000781314 두피디아 - 광주월드컵경기장]
+* [https://terms.naver.com/entry.nhn?docId=1209247&cid=40942&categoryId=35591 네이버 지식백과 - 광주월드컵경기장]
+
+{{광주 FC}}
+{{위키데이터 속성 추적}}
+
+[[분류:2002년 설립]]
+[[분류:2002년 완공된 스포츠 시설]]
+[[분류:전남광주통합특별시의 건축물]]
+[[분류:광주 서구의 건축물]]
+[[분류:전남광주통합특별시의 스포츠]]
+[[분류:대한민국의 육상 경기장]]
+[[분류:대한민국의 축구 경기장]]
+[[분류:전남광주통합특별시의 육상 경기장]]
+[[분류:전남광주통합특별시의 축구 경기장]]
+[[분류:광주 FC]]

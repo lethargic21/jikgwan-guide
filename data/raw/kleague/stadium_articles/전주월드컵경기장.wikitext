@@ -1,0 +1,168 @@
+{{경기장 정보
+| 이름 = 전주월드컵경기장
+| 전체이름 = 전주월드컵경기장 주경기장
+| 원어이름 = {{lang|en|Jeonju World Cup Stadium}}
+| 이전이름 = 
+| 별칭 = 전주성
+| 그림 = Jeonju World Cup Stadium 2016.jpg
+| 설명문 = 
+| 위치 = {{국기나라|대한민국}} [[전북특별자치도]] [[전주시]] [[덕진구]] 기린대로 1055 ([[반월동 (전주시)|반월동]] 763-1번지)
+| 좌표 = {{좌표|35.868071|N|127.064480|E|format=dms|display=inline, title}}
+| 기공 = 1999년 2월 2일<ref>{{뉴스 인용|url=https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=102&oid=001&aid=0004424387|제목=2002년 전주월드컵경기장 기공식|출판사=연합뉴스|저자=김종량|날짜=1999-02-02}}</ref>
+| 건설기간 = 2년 9개월
+| 개장 = 2001년 11월 8일<ref name="전국공공체육시설현황">{{서적 인용|url=https://www.mcst.go.kr/kor/s_policy/dept/deptView.jsp?pSeq=1227&pDataCD=0408010000&pType=|제목=전국 공공체육 시설 현황 (2017년말 기준)|출판사=대한민국 문화체육관광부|연도=2019|쪽=43}}</ref><ref name="두피디아">{{백과사전 인용|url=http://www.doopedia.co.kr/doopedia/master/master.do?_method=view&MAS_IDX=101013000873548|제목=전주월드컵경기장|백과사전=두피디아|출판사=두산}}</ref>
+| 보수 = 
+| 확장 = 
+| 폐장 = 
+| 철거 = 
+| 소유 = [[전주시청]]<ref name="전국공공체육시설현황"/>
+| 운영 = [[전주시시설관리공단]]<ref name="전국공공체육시설현황"/><ref>{{웹 인용|url=http://www.jjss.or.kr/content10/10_04.asp|제목=전주시시설관리공단 조직|출판사=전주시시설관리공단|확인날짜=2019-10-15|archive-date=2019-10-23|archive-url=https://web.archive.org/web/20191023072239/http://www.jjss.or.kr/content10/10_04.asp|url-status=dead}}</ref>
+| 표면 = 천연잔디
+| 건설비용 = 1,450억 [[대한민국 원|원]]<ref name="전국공공체육시설현황"/>
+| 건축가  = 포스에이씨종합건축사사무소(심성보) 등
+| 건설 = 
+| 구조 엔지니어 = 
+| 서비스 엔지니어 = 
+| 프로젝트 매니저 = 
+| 도급회사 = 성원컨소시엄(성원건설, 동부건설, 쌍용건설)
+| 개최대회 = [[2002년 FIFA 월드컵]]<br />[[2003년 전국체육대회]]<br />[[2003년 피스컵]]<br />[[2005년 동아시아 축구 선수권 대회]]<br />[[2005년 동아시아 여자 축구 선수권 대회]]<br />[[2017년 FIFA U-20 월드컵]]<br />[[AFC 챔피언스리그 엘리트]] (2004년~2024년)<br />[[AFC 챔피언스리그 투]] (2024년~2025년)<br />[[코리아컵]] (현재)<br />[[K리그 슈퍼컵]] (2026년)<br />[[K리그 챔피언십]]<br />[[K리그 승강 플레이오프]] (2024년)<br />[[K리그1]] (2002년~현재)<br />[[K4리그]] (2026년)
+| 홈경기장 = [[전북 현대 모터스 FC]] (2002년~현재)<br />[[전북 현대 모터스 FC N]] (2026년)
+| 좌석 = 36,781석<ref name="전국공공체육시설현황"/>
+| 수용인원 = 50,000명<ref name="전국공공체육시설현황"/>
+| 규모 = 필드: 105 × 68 [[미터|m]]
+}}
+
+'''전주월드컵경기장'''(全州월드컵競技場, {{lang|en|Jeonju World Cup Stadium}})은 [[대한민국]] [[전북특별자치도]] [[전주시]]에 있는 스포츠 시설이다.
+
+== 개요 ==
+{| class="wikitable" style="float:right"
+|-
+| <div style="float: right; clear: right; ">
+<div style="position: relative; ">[[파일:Map Jeollabuk-do.png|180px]]
+<!--전주--><div style="position: absolute; left: 120px; top: 57px">[[파일:Red Arrow Down.svg|8px]]</div>
+{{그림 꼬리표|x=0.32|y=0.18|scale=250|text=전주월드컵경기장}}
+</div>
+</div>
+|-
+|}
+[[파일:전주월드컵경기장.jpg|섬네일|전주월드컵경기장 외관]]
+[[파일:전주월드컵경기장 관중석과운동장.jpg|섬네일|전주월드컵경기장 필드와 E석]]
+[[2002 FIFA 월드컵]]의 개최를 목적으로 건설되었으며, 2002년부터 [[전북 현대 모터스]]의 홈 경기장으로 사용되고 있다. 전주월드컵경기장 이전에 사용되던 [[전주종합경기장]]의 별명인 전주성([[한옥]]식으로 디자인된 부분이 있고 입구가 성문으로 되어있어서 붙여진 별명)을 이어 와서 전주성이라 불린다. 합죽선을 형상화한 지붕, [[솟대]]를 상징하는 기둥, [[가야금]]의 12현을 상징하는 케이블이 지붕을 받치고 있다. 또한, 관중들이 하천 위의 다리를건너 입장할 수 있도록 설계되었다.
+
+[[2011년]] [[6월 7일]]과 [[2013년]] [[9월 10일]]에는 [[대한민국 축구 국가대표팀]]의 평가전인 가나전과 크로아티아전이 각각 개최되었다.
+
+경기장 근처에는 [[전주 나들목]](전주IC) 및 호남제일문 고속/시외버스 중간 승하차장이 있다.
+
+== 주요 경기 ==
+=== 2002년 FIFA 월드컵 ===
+{| class="wikitable" style="text-align:center;"
+|-
+!날짜!!팀 1!!스코어!!팀 2!!라운드
+|-
+|[[2002년]] [[6월 7일]]||style="text-align:right;"|'''{{축구나라2|ESP}}'''||'''3''' - 1||style="text-align:left;"|{{축구나라|PAR|1990}}||B조 2차전 
+|-
+|[[2002년]] [[6월 10일]]||style="text-align:right;"|'''{{축구나라2|POR}}'''||'''4''' - 0||style="text-align:left;"|{{축구나라|POL}}||D조 2차전
+|-
+|[[2002년]] [[6월 17일]]||style="text-align:right;"|{{축구나라2|MEX}}||0 - '''2'''||style="text-align:left;"|'''{{축구나라|USA}}'''||16강전 5경기
+|}
+
+=== 2003년 피스컵 ===
+{| class="wikitable" style="text-align:center;"
+|-
+!날짜
+!팀 1
+!스코어
+!팀 2
+!라운드
+|-
+|[[2003년]] [[7월 16일]]||style="text-align:right;"|{{국기그림|USA}} [[로스앤젤레스 갤럭시]]||0 - 0||style="text-align:left;"|{{국기그림|URU}} [[클루브 나시오날 데 푸트볼]]||B조
+|-
+|[[2003년]] [[7월 19일]]||style="text-align:right;"|{{국기그림|FRA}} '''[[올랭피크 리옹]]'''||'''1''' - 0||style="text-align:left;"|{{국기그림|KOR|1997}} [[성남 일화 천마]]||A조
+|-
+|}
+
+=== 2005년 동아시아 축구 선수권 대회 ===
+{| class="wikitable" style="text-align:center;"
+|-
+!날짜
+!팀 1
+!스코어
+!팀 2
+!라운드
+|-
+|[[2005년]] [[8월 4일]]||style="text-align:right;"|{{fb|KOR|1997}}||0 - 0||style="text-align:left;"|{{fb|PRK}}||1차전
+|-
+|}
+
+=== 2005년 동아시아 여자 축구 선수권 대회 ===
+{| class="wikitable" style="text-align:center;"
+|-
+!날짜
+!팀 1
+!스코어
+!팀 2
+!라운드
+|-
+|[[2005년]] [[8월 1일]]||style="text-align:right;"|'''{{fbw|KOR|1997}}'''||'''2''' - 0||style="text-align:left;"|{{fbw|CHN}}||1차전
+|-
+|[[2005년]] [[8월 1일]]||style="text-align:right;"|'''{{fbw|PRK}}'''||'''1''' - 0||style="text-align:left;"|{{fbw|JPN}}||1차전
+|-
+|[[2005년]] [[8월 4일]]||style="text-align:right;"|'''{{fbw|KOR|1997}}'''||'''1''' - 0||style="text-align:left;"|{{fbw|PRK}}||2차전
+|-
+|}
+
+=== 전북 현대 모터스 ===
+{| class="wikitable" style="text-align:center;"
+|-
+!날짜!!홈팀!!스코어!!원정팀!!비고!!관중수
+|-
+|[[2006년]] [[11월 1일]]||style="text-align:right;"|'''[[전북 현대 모터스]]''' {{국기그림|KOR|1997}}||'''2''' - 0||style="text-align:left;"|{{국기그림|SYR}} [[알카라마 SC|알카라마]] ||[[AFC 챔피언스리그 2006 결승전]] 1차전 ||25,830
+|-
+|[[2009년]] [[12월 6일]]||style="text-align:right;"|'''[[전북 현대 모터스]]''' {{국기그림|KOR|1997}}||'''3''' - 1||style="text-align:left;"|{{국기그림|KOR|1997}} [[성남 FC|성남 일화 천마]] ||[[K리그 챔피언 결정전 2009]] 2차전 ||36,246
+|-
+|[[2010년]] [[8월 25일]]||style="text-align:right;"|[[전북 현대 모터스]] {{국기그림|KOR|1997}}||0 - '''3'''||style="text-align:left;"|{{국기그림|KOR|1997}} '''[[FC 서울]]''' ||[[리그컵 2010 결승전]] ||15,891
+|-
+|[[2011년]] [[11월 5일]]||style="text-align:right;"|[[전북 현대 모터스]] {{국기그림|KOR}}||2 - 2||style="text-align:left;"|{{국기그림|QAT}} [[알사드 SC|알사드]] ||[[AFC 챔피언스리그 2011 결승전]] ||41,805
+|-
+|[[2011년]] [[12월 4일]]||style="text-align:right;"|'''[[전북 현대 모터스]]''' {{국기그림|KOR}}||'''2''' - 1||style="text-align:left;"|{{국기그림|KOR}} [[울산 현대]] ||[[K리그 챔피언 결정전 2011]] 2차전 ||33,554
+|-
+|[[2013년]] [[10월 19일]]||style="text-align:right;"|[[전북 현대 모터스]] {{국기그림|KOR}}||1 - 1||style="text-align:left;"|{{국기그림|KOR}} [[포항 스틸러스]] ||[[FA컵 2013 결승전]] ||23,477
+|-
+|[[2016년]] [[11월 19일]]||style="text-align:right;"|'''[[전북 현대 모터스]]''' {{국기그림|KOR}}||'''2''' - 1||style="text-align:left;"|{{국기그림|UAE}} [[알아인 FC|알아인]] ||[[AFC 챔피언스리그 2016 결승전]] 1차전 ||36,158
+|}
+
+== 각주 ==
+{{각주}}
+
+== 참고 문헌 ==
+* {{백과사전 인용|url=http://www.doopedia.co.kr/doopedia/master/master.do?_method=view&MAS_IDX=101013000873548|제목=전주월드컵경기장|백과사전=두피디아|출판사=두산}}
+* {{서적 인용|url=https://www.mcst.go.kr/kor/s_policy/dept/deptView.jsp?pSeq=1227&pDataCD=0408010000&pType=|제목=전국 공공체육 시설 현황 (2017년말 기준)|출판사=대한민국 문화체육관광부|연도=2019}}
+
+== 같이 보기 ==
+* [[전주월드컵경기장 보조경기장]]
+* [[전북 현대 모터스|전북 현대 모터스 FC]]
+
+== 외부 링크 ==
+{{위키공용분류}}
+* [https://www.jjss.or.kr/index.9is?contentUid=ff8080816c5f9de6016cb2a02452004c 전주월드컵경기장 공식 웹사이트] {{웹아카이브|url=https://web.archive.org/web/20201127111236/https://www.jjss.or.kr/index.9is?contentUid=ff8080816c5f9de6016cb2a02452004c}}
+* [http://www.hyundai-motorsfc.com/club/stadium.asp 전북 현대 모터스 FC - 경기장]
+* [http://www.doopedia.co.kr/doopedia/master/master.do?_method=view&MAS_IDX=101013000873548 두피디아 - 전주월드컵경기장]
+* [https://terms.naver.com/entry.nhn?docId=1209251&cid=40942&categoryId=33084 네이버 지식백과 - 전주월드컵경기장]
+
+{{전북 현대 모터스}}
+{{K리그 경기장}}
+{{2002년 FIFA 월드컵 경기장}}
+{{2017년 FIFA U-20 월드컵 경기장}}
+
+{{전거 통제}}
+{{위키데이터 속성 추적}}
+
+[[분류:2001년 설립]]
+[[분류:2001년 완공된 스포츠 시설]]
+[[분류:전주시의 건축물]]
+[[분류:전주시의 스포츠]]
+[[분류:대한민국의 축구 경기장]]
+[[분류:전주시의 축구 경기장]]
+[[분류:대한민국의 2002년 FIFA 월드컵 경기장]]
+[[분류:2017년 FIFA U-20 월드컵 경기장]]
+[[분류:전북 현대 모터스 FC]]

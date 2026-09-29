@@ -1,0 +1,136 @@
+{{경기장 정보
+| 이름 = 포항스틸야드
+| 전체이름 = 포항스틸야드
+| 원어이름 = {{lang|en|Pohang Steel Yard}}
+| 이전이름 = 포항축구전용구장
+| 별칭 = 용광로
+| 사진 = Pohang080413 1.jpg
+| 사진설명 = 
+| 위치 = [[대한민국]] [[경상북도]] [[포항시]] [[남구 (포항시)|남구]] 동해안로6213번길 20 ([[괴동동]] 1-6번지)
+| 좌표 = {{좌표|35.997745|N|129.384412|E|format=dms|display=inline, title}}
+| 기공 = 1988년
+| 건설기간 = 2년
+| 개장 = 1990년 11월 10일<ref name="역사">{{웹 인용|url=https://www.steelers.co.kr/match/steelyard_history|제목=포항스틸야드 역사|출판사=포항 스틸러스 축구단}}</ref>
+| 보수 = 2003년, 2005년, 2010년, 2013년
+| 확장 = 
+| 폐장 = 
+| 철거 = 
+| 소유 = [[포스코]]
+| 운영 = [[포항스틸러스]]<ref name="한국스포츠경제">{{뉴스 인용|url=http://www.sporbiz.co.kr/news/articleView.html?idxno=301509|제목=기업들이 경기장을 소유하지 않는 이유…‘법적으로 불가능할까?’|출판사=한국스포츠경제|저자=김솔이|날짜=2019-01-10}}</ref>
+| 설계 = 
+| 도급 = 
+| 건설 = 
+| 건설비용 = 110억 [[대한민국 원|원]]<ref name="역사"/>
+| 표면 = 천연잔디
+| 규모 = 필드: 105 × 68 [[미터|m]]
+| 좌석 = 14,293석<ref name="출처">{{웹 인용|url=https://m.cafe.naver.com/soidori/33501|제목=포항항닷컴 역사|출판사=포항항닷컴}}</ref>
+| 수용인원 = 25,000명
+| 홈경기장 = [[FC 포항 스틸러스]] (1990년~현재)
+| 개최대회 = [[AFC 챔피언스리그 엘리트]]<br />[[AFC 챔피언스리그 투]] (2025년~2026년)<br />[[코리아컵]]<br />[[리그컵 (대한민국)|리그컵]]<br />[[K리그1]] (1990년~현재)
+| 사용처 = 
+}}
+
+'''포항스틸야드'''(浦項스틸야드, {{lang|en|Pohang Steel Yard}})는 [[대한민국]] [[경상북도]] [[포항시]]에 있는 스포츠 시설이다. 관중석 14,293석(최대 수용 가능인원 25,000명) 규모로 [[포스코]] 시설 내부에 설치되었으며, 1990년에 [[대한민국]]에서 처음으로 건립된 [[축구 전용 경기장]]이다.
+
+1990년 11월 10일 당시 [[포항 스틸러스|포항제철]]과 [[고려대학교 축구부|고려대학교]]의 개장 기념 경기를 시작으로 정식 개장하였으며 이듬해인 1991년부터 [[K리그 클래식|K리그]]에서 [[포항 스틸러스]]가 홈 구장으로 사용하기 시작해 현재에 이르고 있다. [[K리그 클래식]] [[포항 스틸러스]]의 홈 구장으로 2층으로 된 4면의 관중석과 관중석 전체를 덮는 지붕, 그리고 북쪽 관중석에 천연색 전광판 1개를 갖추고 있다. 경기장과 관중석과의 간격이 불과 4[[미터]]로써, [[대한민국]]에서는 경기장 가장 가까운 곳에서 경기를 관람할 수 있는 경기장으로 꼽혔지만, 2012년 3월 11일 [[인천축구전용경기장]]이 개장하면서 경기장과 관중석과의 간격이 두 번째로 가까운 구장이 되었다.
+
+== 역사 ==
+1988년 말 포항제철(현 [[포스코]]) 고 [[박태준 (1927년)|박태준]] 회장의 지시로 [[대한민국]] 최초의 [[축구 경기장|축구 전용 경기장]]이 건설되었다. 1990년 11월 10일 [[포항 스틸러스|포항제철 아톰스]] (현 [[포항 스틸러스]])와 [[고려대학교 축구부|고려대학교]]의 개장 경기를 시작으로, 1991년부터 [[K리그 클래식|K리그]]의 [[포항 스틸러스]] 홈경기가 개최되고 있다.<ref>{{뉴스 인용|url=http://newslibrary.naver.com/viewer/index.nhn?articleId=1990110900289111014&editNo=4&printCount=1&publishDate=1990-11-09&officeId=00028&pageNo=11&printNo=770&publishType=00010|저자=|제목=축구전용구장 국내 첫선 포철, 1백10억 들여 완공|날짜=1990-11-19|출판사=한겨레신문}}</ref>
+
+1999년에는 본부석 좌측에 500석 규모의 서포터석을 설치하여 [[대한민국]]에서 최초로 서포터석을 보유한 경기장이 되었다. 2003년에는 사계절 잔디 교체 및 첨단 음향시설, 라커룸 공사 등 대대적인 보수공사가 있었으며, 2005년에는 특별 관람석을 마련하고, 경기장 전면의 철망을 제거하여 관람 편의성을 높였다. 2010년 시즌을 앞두고는 지붕을 도색하고 전광판 1대를 추가로 설치하였으며 중계방송 차량용 통로를 없애고 좌석을 설치하였다.<ref>{{뉴스 인용|제목 = 포항 홈구장 스틸야드, 2010 시즌 홈 개막전 앞두고 새단장|url = http://www.sportalkorea.com/news/view.php?gisa_uniq=20100304175641&section_code=10&key=%C6%F7%C7%D7+%C8%A8%B1%B8%C0%E5+%BD%BA%C6%BF%BE%DF%B5%E5%2C+2010+%BD%C3%C1%F0+%C8%A8%B0%B3%B8%B7%C0%FC+%BE%D5%B5%CE%B0%ED+%BB%F5%B4%DC%C0%E5&field=gisa_title&search_key=y|출판사 = 스포탈코리아|날짜 = 2010-03-04|확인날짜 = 2011-11-08|archive-date = 2019-12-12|archive-url = https://web.archive.org/web/20191212003210/http://www.sportalkorea.com/news/view.php?gisa_uniq=20100304175641&section_code=10&key=%C6%F7%C7%D7+%C8%A8%B1%B8%C0%E5+%BD%BA%C6%BF%BE%DF%B5%E5%2C+2010+%BD%C3%C1%F0+%C8%A8%B0%B3%B8%B7%C0%FC+%BE%D5%B5%CE%B0%ED+%BB%F5%B4%DC%C0%E5&field=gisa_title&search_key=y|url-status = }}</ref> 2010년 4월 5일에는 [[K리그 클래식|K리그]] 최초로 인체공학적 벤치를 [[독일]]의 레카로(RECARO)사로부터 수입하여 설치를 완료하였다.<ref>{{뉴스 인용|제목 = 포항, K-리그 최초로 유럽형 인체공학적 벤치 도입|url = https://www.yna.co.kr/view/PYH20100406091300013|출판사 = 연합뉴스|날짜 = 2010-04-06|확인날짜 = 2011-11-08|보존url = https://web.archive.org/web/20160305072249/http://app.yonhapnews.co.kr/YNA/Basic/article/ArticlePhoto/YIBW_showArticlePhotoPopup.aspx?contents_id=PYH20100406091300013|보존날짜 = 2016-03-05|url-status = live}}</ref>
+
+2013년 포항스틸야드의 잔디손상이 심해 잔디 전면 교체로 인해 [[포항 스틸러스]]는 [[K리그 클래식 2013|2013시즌]] 28라운드 (9월 22일) [[울산 HD FC|울산 현대]]전부터 남은 경기까지 [[포항종합운동장]]을 사용했다.<ref>{{웹 인용 |url=http://www.imaeil.com/sub_news/sub_news_view.php?news_id=45961&yy=2013 |제목=포항 스틸러스, 시즌 홈구장 변경 |확인날짜=2013-09-13 |archive-date=2018-07-07 |archive-url=https://web.archive.org/web/20180707120834/http://www.imaeil.com/sub_news/sub_news_view.php?news_id=45961&yy=2013 |url-status= }}</ref> 2018년에는 N석 서포팅 석을 늘리고 포항의 팀 컬러인 검정과 빨강으로 도색했다. 그리고 협소했던 기존의 W석 1층 좌석을 고쳐 프리미엄석으로 만들었다. 전체 좌석 수는 줄었지만, 한층 쾌적한 관람이 가능하게 되었다.
+
+[[2026년]] [[8월 8일]] 포항 스틸러스와 울산 HD의 K리그1 경기가 진행되던 중 관중석 천장에서 [[콘크리트]] 석재 일부가 낙하하는 사고가 발생하였다. 낙하한 석재는 원정석인 S구역 테이블 좌석에 떨어졌으며, 이로 인해 관중 1명이 손등에 찰과상을 입었다. 이번 사고를 계기로 [[포항스틸야드]]가 준공된 지 36년이 지나면서 경기장 시설의 노후화 문제가 제기되었다.
+
+== 기록 ==
+=== 1991년 대통령배 국제축구대회 ===
+{| class="wikitable" style="text-align:center;"
+|-
+!날짜
+!팀 1
+!스코어
+!팀 2
+!라운드
+|-
+|[[1991년]] [[6월 12일]]||style="text-align:right;"|'''{{fb|AUS}}'''||'''1''' - 0||style="text-align:left;"|{{fb|KOR|이름=대한민국 백호}}||B조
+|-
+|[[1991년]] [[6월 12일]]||style="text-align:right;"|{{fb|URS|이름=소련 올림픽 대표팀}}||1 - 1||style="text-align:left;"|{{fb|USA}}||B조
+|-
+|}
+
+=== 1997년 아시안 슈퍼컵 ===
+{| class="wikitable" style="text-align:center;"
+|-
+!날짜
+!팀 1
+!스코어
+!팀 2
+!라운드
+|-
+|[[1997년]] [[6월 19일]]||style="text-align:right;"|{{국기그림|대한민국}} [[포항 스틸러스]]||1 - 1||style="text-align:left;"|{{국기그림|사우디아라비아}} [[알힐랄 SFC]]||2차전
+|}
+
+=== 1998년 아시안 슈퍼컵 ===
+{| class="wikitable" style="text-align:center;"
+|-
+!날짜
+!팀 1
+!스코어
+!팀 2
+!라운드
+|-
+|[[1998년]] [[12월 1일]]||style="text-align:right;"|{{국기그림|대한민국}} [[포항 스틸러스]]||1 - 1||style="text-align:left;"|{{국기그림|사우디아라비아}} [[알나스르 FC]]||1차전
+|}
+
+== 사진 ==
+{| class="wikitable" style="float:right"
+|-
+| <div style="float: right; clear: right; ">
+<div style="position: relative; ">[[파일:Map_Gyeongsangbuk-do.png|250px]]
+<!--포항--><div style="position: absolute; left: 186px; top: 140px">[[파일:Red Arrow Down.svg|8px]]</div>
+{{그림 꼬리표|x=0.62|y=0.52|scale=250|text=포항스틸야드}}
+</div>
+</div>
+|}
+<gallery>
+파일:Pohang Steelyard Football Staduim 20090318 1943.jpg|ACL Pohang-KAWASAKI(JAPAN)
+파일:Pohang080413 3.JPG|주 경기장 외관
+파일:Pohang080413 4.JPG|주 경기장 내부
+파일:Pohang080413 5.JPG|주 경기장 내부
+파일:Pohang080413 6.JPG|주 경기장 내부
+</gallery>
+
+== 각주 ==
+<references />
+
+== 참고 문헌 ==
+* {{웹 인용|url=https://www.steelers.co.kr/match/steelyard_history|제목=포항스틸야드 역사|출판사=포항 스틸러스 축구단}}
+* {{웹 인용|url=http://www.steelers.co.kr/club/index.asp?st=A003|제목=포항스틸야드|출판사=포항 스틸러스 축구단|확인날짜=2018-11-11|archive-date=2013-09-21|archive-url=https://web.archive.org/web/20130921060316/http://www.steelers.co.kr/club/index.asp?st=A003|url-status=}}
+* {{백과사전 인용|url=http://www.doopedia.co.kr/doopedia/master/master.do?_method=view&MAS_IDX=101013000780613|제목=포항스틸야드|백과사전=두피디아|출판사=두산}}
+* {{뉴스 인용|url=https://sports.news.naver.com/general/news/read.nhn?oid=233&aid=0000000144|제목=[K-리그 꿈의구장]스틸야드란 이름의 포항축구전용구장|출판사=한국프로축구연맹|저자=윤진식|날짜=2006-09-14}}
+
+== 같이 보기 ==
+* [[포항 스틸러스]]
+
+== 외부 링크 ==
+{{위키공용분류}}
+* [https://www.steelers.co.kr/match/steelyard FC 포항 스틸러스 - 포항스틸야드]
+* [https://web.archive.org/web/20130921060316/http://www.steelers.co.kr/club/index.asp?st=A003# FC 포항 스틸러스 - 포항스틸야드 (과거 웹페이지)]
+* [http://www.doopedia.co.kr/doopedia/master/master.do?_method=view&MAS_IDX=101013000780613 두피디아 - 포항스틸야드]
+* [https://terms.naver.com/entry.nhn?docId=1207721&cid=40942&categoryId=37713 네이버 지시백과 - 포항스틸야드]
+* [https://map.naver.com/local/siteview.nhn?code=13549524 네이버 지도 - 포항스틸야드]
+* [https://place.map.kakao.com/8124613 카카오맵 - 포항스틸야드]
+
+{{포항 스틸러스}}
+
+{{전거 통제}}
+{{위키데이터 속성 추적}}
+
+[[분류:1990년 설립]]
+[[분류:1990년 완공된 스포츠 시설]]
+[[분류:포항시의 건축물]]
+[[분류:포항시의 스포츠]]
+[[분류:대한민국의 축구 경기장]]
+[[분류:포항시의 축구 경기장]]
+[[분류:포항 스틸러스]]

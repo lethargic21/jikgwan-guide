@@ -1,0 +1,189 @@
+{{경기장 정보
+| 이름 = 울산문수축구경기장
+| 전체이름 = 울산문수축구경기장
+| 원어이름 = {{lang|en|Ulsan Munsu Football Stadium}}
+| 이전이름 = 
+| 별칭 = 빅 크라운 (Big Crown)
+| 그림 = Munsu 20121110 204310 5.jpg
+| 설명문 = 
+| 위치 = [[대한민국]] [[울산광역시]] [[남구 (울산광역시)|남구]] 문수로 44 ([[옥동 (울산)|옥동]] 산5번지)
+| 좌표 = {{좌표|35.535328|N|129.259512|E|format=dms|display=inline, title}}
+| 기공 = 1998년 12월 18일<ref name="한국향토문화전자대전">{{백과사전 인용|url=http://www.grandculture.net/ko/Contents?dataType=99&contents_id=GC80020402|제목=울산문수축구경기장|백과사전=한국향토문화전자대전|출판사=한국학중앙연구원}}{{깨진 링크|url=http://www.grandculture.net/ko/Contents?dataType=99&contents_id=GC80020402 }}</ref><ref name="두피디아">{{백과사전 인용|url=http://www.doopedia.co.kr/doopedia/master/master.do?_method=view&MAS_IDX=101013000781315|제목=울산문수축구경기장|백과사전=두피디아|출판사=두산}}</ref><ref name="울산시설공단">{{웹 인용|url=http://www.uimc.or.kr/institution/ins01.php|제목=울산문수축구경기장|출판사=울산시설공단|확인날짜=2019-10-06|archive-date=2018-09-28|archive-url=https://web.archive.org/web/20180928201140/http://www.uimc.or.kr/institution/ins01.php|url-status=}}</ref>
+| 건설기간 = 2년 4개월
+| 개장 = 2001년 4월 28일<ref name="두피디아"/><ref name="전국공공체육시설현황">{{서적 인용|url=https://www.mcst.go.kr/kor/s_policy/dept/deptView.jsp?pSeq=1227&pDataCD=0408010000&pType=|제목=전국 공공체육 시설 현황 (2017년말 기준)|출판사=대한민국 문화체육관광부|연도=2019|쪽=28}}</ref>
+| 보수 = 
+| 확장 = 
+| 폐장 = 
+| 철거 = 
+| 소유 = [[울산광역시청]]<ref name="전국공공체육시설현황"/>
+| 운영 = [[울산시설공단]]<ref name="전국공공체육시설현황"/><ref name="울산시설공단"/>
+| 표면 = 천연잔디
+| 건설비용 = 1,514억 2백만 [[대한민국 원|원]]<ref name="전국공공체육시설현황"/><ref>보조경기장 건설비용 포함.</ref>
+| 건축가  = 포스에이씨종합건축사사무소 (심성보, 이강우)
+| 건설 = 
+| 구조 엔지니어 = 
+| 서비스 엔지니어 = 
+| 프로젝트 매니저 = 
+| 도급회사 = 
+| 개최대회 = [[2001년 FIFA 컨페더레이션스컵]]<br />[[2002년 FIFA 월드컵]]<br />[[2003년 피스컵]]<br />[[2005년 피스컵]]<br />[[2022년 전국체육대회]]<br />[[AFC 챔피언스리그 엘리트]] (2006년~현재)<br />[[K리그1]] (2001년~현재)<br />[[코리아컵]]
+| 홈경기장 = [[울산 HD FC]] (2001년 ~ 현재)
+| 좌석 = 43,554석<ref name="전국공공체육시설현황"/><ref name="울산체육공원">{{웹 인용|url=http://munsu.uimc.or.kr/football/football01.php|제목=울산체육공원 - 울산문수축구경기장|출판사=울산시설공단|확인날짜=2011-05-14|archive-date=2017-07-30|archive-url=https://web.archive.org/web/20170730075117/http://munsu.uimc.or.kr/football/football01.php|url-status=}}</ref>
+| 수용인원 = 44,474명<ref name="전국공공체육시설현황"/>
+| 규모 = 필드: 116 × 79 [[미터|m]]<ref name="전국공공체육시설현황"/>
+}}
+{| class="floatright"
+| <div style="float:right; clear:right;">
+<div style="position:relative;">[[파일:Map Ulsan-gwangyeoksi.png|250px]]
+<!--울산--><div style="position: absolute; left: 130px; top: 86px">[[파일:Red Arrow Down.svg|8px]]</div>
+{{그림 꼬리표|x=0.32|y=0.31|scale=250|text=울산문수축구경기장}}
+</div></div>
+|}
+
+'''울산문수축구경기장'''(蔚山文殊蹴球競技場, {{lang|en|Ulsan Munsu Football Stadium}})은 [[대한민국]] [[울산광역시]]에 있는 스포츠 시설이다. [[울산체육공원]] 내에 관중석 43,554석 규모로 조성된 [[축구 전용 경기장]]으로, [[2002년 FIFA 월드컵]] 개최를 위해 건립되었다.
+
+2001년부터 [[울산 HD FC]]의 홈 경기장으로 사용되고 있으며 6월 30일 [[2002년 FIFA 월드컵]] 경기장 중에서는 가장 먼저 완공되어 4월 28일 브라질의 명문구단 [[보타포구 FR|보타포구]]와 개장 경기를 가졌다.<ref>{{뉴스 인용 |제목=월드컵 경기장 개장 친선경기 - 울산 현대, 보타보고에 1-0 신승 |url=http://sports.news.naver.com/sports/index.nhn?category=general&ctg=news&mod=read&office_id=038&article_id=0000068265|출판사=한국일보|date={{날짜한글화|2001-04-28}}}}</ref>(완전한 정식 완공은 2001년 6월 30일이지만 경기 개최에는 무리가 없어 2001년 4월 28일 개장 경기 개최) [[2002년 FIFA 월드컵]] 이외에 [[2001년 FIFA 컨페더레이션스컵]] 등 몇몇 국제 대회를 치르기도 했다.
+
+지하 2층, 지상 3층 규모이며, 4면 관중석 전체의 87%를 덮는 지붕은 [[울주 대곡리 반구대 암각화]]에서 표현된 [[고래]] 뼈대를 추상화한 철골 트러스와 신라 금관을 형상화한 기둥으로 지탱되고 있다. 빅 크라운(Big Crown)이라는 별칭은 그러한 특징에서 유래한 것이다.
+
+== 부속 시설 ==
+울산체육공원에 속해 있고 특이하게도 문수축구경기장과 함께 있는 수영장은 인근에 있는 울산대학교 아산스포츠센터의 수영장과 함께 수영장 국제규격(50m, 8레인)을 만족하는 수영장으로 국내 수영장의 대다수가 25m 수영장임을 감안해 보면 매우 특이한 경우이며 덤으로 문수 축구경기장 내의 수영장은 다이빙대도 있다.
+
+경기장 밑에는 호반광장이 위치해 있으며 이 광장에서 [[다음 스타리그 2007]] 결승과 [[대한항공 스타리그 2010 Season 1]] 8강 투어가 열리는 등 e스포츠와도 인연이 있다.
+
+== 국제 대회 ==
+=== 2001년 FIFA 컨페더레이션스컵 ===
+[[2001년 FIFA 컨페더레이션스컵]] 경기 결과
+{| class="wikitable" style="text-align:center;"
+|-
+!날짜
+!팀 1
+!스코어
+!팀 2
+!라운드
+|-
+|2001년 6월 1일||style="text-align:right;"|'''{{축구나라2|KOR|1997}}'''||2 - 1||style="text-align:left;"|'''{{축구나라|MEX}}||A조
+|-
+|2001년 6월 3일||style="text-align:right;"|'''{{축구나라2|FRA}}'''||4 - 0||style="text-align:left;"|''{{축구나라|MEX}}||A조
+|-
+|2001년 6월 9일||style="text-align:right;"|'''{{축구나라2|AUS}}'''||1 - 0||style="text-align:left;"|''{{축구나라|BRA}}||3위 결정전
+|}
+
+=== 2002년 FIFA 월드컵 ===
+[[2002년 FIFA 월드컵]] 경기 결과
+{| class="wikitable" style="text-align:center;"
+|-
+!날짜
+!팀 1
+!스코어
+!팀 2
+!라운드
+|-
+|2002년 6월 1일||style="text-align:right;"|{{축구나라2|URU}}||1 - '''2'''||style="text-align:left;"|'''{{축구나라|DEN}}'''||A조 1차전
+|-
+|2002년 6월 3일||style="text-align:right;"|'''{{축구나라2|BRA}}'''||'''2''' - 1||style="text-align:left;"|{{축구나라|TUR}}||C조 1차전
+|-
+|2002년 6월 21일||style="text-align:right;"|'''{{축구나라2|GER}}'''||'''1''' - 0||style="text-align:left;"|{{축구나라|USA}}||8강전 2경기
+|}
+
+=== 2002년 아시안 게임 축구 ===
+[[2002년 아시안 게임 남자 축구]] 경기 결과
+{| class="wikitable" style="text-align:center;"
+|-
+!날짜
+!팀 1
+!스코어
+!팀 2
+!라운드
+|-
+|2002년 9월 27일||style="text-align:right;"|{{fb|UAE}}||0 - 0||style="text-align:left;"|{{fb|VIE}}||B조
+|-
+|2002년 9월 27일||style="text-align:right;"|'''{{fb|IND}}'''||'''3''' - 0||style="text-align:left;"|{{fb|BGD}}||C조
+|-
+|2002년 10월 1일||style="text-align:right;"|'''{{fb|JPN}}'''||'''5''' - 2||style="text-align:left;"|{{fb|BHR}}||D조
+|-
+|2002년 10월 1일||style="text-align:right;"|'''{{fb|QAT}}'''||'''11''' - 0||style="text-align:left;"|{{fb|AFG}}||E조
+|-
+|2002년 10월 3일||style="text-align:right;"|{{fb|MDV}}||0 - '''5'''||style="text-align:left;"|'''{{fb|OMA}}'''||A조
+|-
+|2002년 10월 5일||style="text-align:right;"|{{fb|PRK}}||0 - '''2'''||style="text-align:left;"|'''{{fb|KWT}}'''||F조
+|-
+|2002년 10월 8일||style="text-align:right;"|'''{{fb|KOR}}'''||'''1''' - 0||style="text-align:left;"|{{fb|BHR}}||8강
+|-
+|2002년 10월 10일||style="text-align:right;"|'''{{fb|JPN}}'''||'''3''' - 0||style="text-align:left;"|{{fb|THA}}||8강
+|-
+|}
+
+=== 2003년 피스컵 ===
+[[2003년 피스컵]] 경기 결과
+{| class="wikitable" style="text-align:center;"
+|-
+!날짜
+!팀 1
+!스코어
+!팀 2
+!라운드
+|-
+|[[2003년]] [[7월 17일]]||style="text-align:right;"|{{국기그림|FRA}} [[올랭피크 리옹]]||1 - '''2'''||style="text-align:left;"|{{국기그림|TUR}} '''[[베식타시 JK]]'''||A조
+|-
+|[[2003년]] [[7월 20일]]||style="text-align:right;"|{{국기그림|URU}} [[클루브 나시오날 데 푸트볼]]||0 - '''1'''||style="text-align:left;"|{{국기그림|GER}} '''[[TSV 1860 뮌헨]]'''||B조
+|-
+|}
+
+=== 2005년 피스컵 ===
+[[2005년 피스컵]] 경기 결과
+{| class="wikitable" style="text-align:center;"
+|-
+!날짜
+!팀 1
+!스코어
+!팀 2
+!라운드
+|-
+|2005년 7월 17일||style="text-align:right;"|{{국기그림|FRA}} '''[[올랭피크 리옹]]'''||'''2''' - 1||style="text-align:left;"|{{국기그림|KOR}} [[성남 일화 천마]]||A조
+|-
+|2005년 7월 21일||style="text-align:right;"|{{국기그림|ESP}} [[레알 소시에다드]]||1 - 1||style="text-align:left;"|{{국기그림|ENG}} [[토트넘 홋스퍼]]||B조
+|-
+|}
+
+== 각주 ==
+<references/>
+
+== 참고 문헌 ==
+* {{웹 인용|url=http://www.uimc.or.kr/institution/ins01.php|제목=울산문수축구경기장|출판사=울산시설공단|확인날짜=2019-10-06|archive-date=2018-09-28|archive-url=https://web.archive.org/web/20180928201140/http://www.uimc.or.kr/institution/ins01.php|url-status=}}
+* {{웹 인용|url=http://munsu.uimc.or.kr/football/football01.php|제목=울산체육공원 - 울산문수축구경기장|출판사=울산시설공단|확인날짜=2011-05-14|archive-date=2017-07-30|archive-url=https://web.archive.org/web/20170730075117/http://munsu.uimc.or.kr/football/football01.php|url-status=}}
+* {{백과사전 인용|url=http://www.grandculture.net/ko/Contents?dataType=99&contents_id=GC80020402|제목=울산문수축구경기장|백과사전=한국향토문화전자대전|출판사=한국학중앙연구원}}{{깨진 링크|url=http://www.grandculture.net/ko/Contents?dataType=99&contents_id=GC80020402 }}
+* {{백과사전 인용|url=http://www.doopedia.co.kr/doopedia/master/master.do?_method=view&MAS_IDX=101013000781315|제목=울산문수축구경기장|백과사전=두피디아|출판사=두산}}
+* {{서적 인용|url=https://www.mcst.go.kr/kor/s_policy/dept/deptView.jsp?pSeq=1227&pDataCD=0408010000&pType=|제목=전국 공공체육 시설 현황 (2017년말 기준)|출판사=대한민국 문화체육관광부|연도=2019}}
+
+== 같이 보기 ==
+* [[울산체육공원]]
+
+== 외부 링크 ==
+{{위키공용분류}}
+* [http://www.uimc.or.kr/institution/ins01.php 울산시설공단 - 울산문수축구경기장] {{웹아카이브|url=https://web.archive.org/web/20180928201140/http://www.uimc.or.kr/institution/ins01.php}}
+* [http://munsu.uimc.or.kr/football/football01.php 울산체육공원 - 울산문수축구경기장] {{웹아카이브|url=https://web.archive.org/web/20170730075117/http://munsu.uimc.or.kr/football/football01.php}}
+* [http://www.grandculture.net/ko/Contents?dataType=99&contents_id=GC80020402 한국향토문화전자대전 - 울산문수축구경기장]{{깨진 링크|url=http://www.grandculture.net/ko/Contents?dataType=99&contents_id=GC80020402 }}
+* [http://www.doopedia.co.kr/doopedia/master/master.do?_method=view&MAS_IDX=101013000781315 두피디아 - 울산문수축구경기장]
+* [https://terms.naver.com/entry.nhn?docId=5784967&cid=64862&categoryId=65108 네이버 지식백과 - 울산문수축구경기장 (향토문화전자대전)]
+* [https://terms.naver.com/entry.nhn?docId=1209249&cid=40942&categoryId=33084 네이버 지식백과 - 울산문수축구경기장 (두산백과)]
+* [https://map.naver.com/local/siteview.nhn?code=11623016 네이버 지도 - 울산문수축구경기장]
+* [https://place.map.kakao.com/8032076 카카오맵 - 울산문수축구경기장]
+
+{{울산 HD FC}}
+{{K리그 경기장}}
+{{2002년 FIFA 월드컵 경기장}}
+{{울산광역시의 스포츠 시설}}
+
+{{전거 통제}}
+{{위키데이터 속성 추적}}
+
+[[분류:2001년 설립]]
+[[분류:2001년 완공된 스포츠 시설]]
+[[분류:울산광역시의 건축물]]
+[[분류:울산 남구의 건축물]]
+[[분류:울산광역시의 스포츠]]
+[[분류:대한민국의 축구 경기장]]
+[[분류:울산광역시의 축구 경기장]]
+[[분류:울산 HD FC]]
+[[분류:대한민국의 2002년 FIFA 월드컵 경기장]]
+[[분류:2002년 아시안 게임 경기장]]

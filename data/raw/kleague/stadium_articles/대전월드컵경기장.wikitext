@@ -1,0 +1,195 @@
+{{경기장 정보
+| 이름 = 대전월드컵경기장
+| 전체이름 = 대전월드컵경기장 주경기장
+| 원어이름 = {{lang|en|Daejeon World Cup Stadium}}
+| 이전이름 = 
+| 별칭 =
+| 그림 = Daejeon World Cup Stadium.JPG
+| 설명문 = 
+| 위치 = {{국기나라|대한민국}} [[대전광역시]] [[유성구]] [[월드컵대로 (대전)|월드컵대로]] 32 ([[노은동]] 270번지)
+| 좌표 = {{좌표|36.365229|N|127.325056|E|format=dms|display=inline, title}}
+| 기공 = 1998년 12월 16일<ref name="두피디아">{{백과사전 인용|url=http://www.doopedia.co.kr/doopedia/master/master.do?_method=view&MAS_IDX=101013000782184|제목=대전월드컵경기장|백과사전=두피디아|출판사=두산}}</ref>
+| 건설기간 = 2년 9개월
+| 개장 = 2001년 9월 13일<ref name="두피디아"/><ref name="전국공공체육시설현황">{{서적 인용|url=https://www.mcst.go.kr/kor/s_policy/dept/deptView.jsp?pSeq=1227&pDataCD=0408010000&pType=|제목=전국 공공체육 시설 현황 (2017년말 기준)|출판사=대한민국 문화체육관광부|연도=2019|쪽=27}}</ref><ref name="연혁">{{웹 인용|url=http://www.djsiseol.or.kr/portal/sub020401.asp|제목=대전월드컵경기장 연혁|출판사=대전광역시설관리공단}}</ref><ref>{{뉴스 인용|url=https://www.hankyung.com/realestate/article/2001091189078|제목=대전월드컵 경기장 준공|출판사=연합뉴스|날짜=2001-09-11|확인날짜=2021-06-27|archive-date=2021-06-27|archive-url=https://web.archive.org/web/20210627105359/https://www.hankyung.com/realestate/article/2001091189078|url-status=}}</ref>
+| 보수 = 
+| 확장 = 
+| 폐장 = 
+| 철거 = 
+| 소유 = [[대전광역시청]]<ref name="전국공공체육시설현황"/>
+| 운영 = [[하나금융축구단]]<ref>{{뉴스 인용|url=https://www.yna.co.kr/view/AKR20220103053300063|제목=프로축구 하나시티즌, 2025년까지 대전월드컵경기장 위탁 운영|출판사=연합뉴스|날짜=2022-01-03|저자=양영석}}</ref><ref>{{뉴스 인용|url=https://newsis.com/view/?id=NISX20220103_0001710353&cID=10807&pID=10800|제목=대전시-대전하나시티즌, 월드컵경기장 관리위탁 시행|출판사=뉴시스|저자=조명휘|날짜=2022-01-03}}</ref>
+| 표면 = 천연잔디
+| 건설비용 = 1,439억 [[대한민국 원|원]]<ref name="전국공공체육시설현황"/><ref name="연혁"/>
+| 건축가 = 유신건축종합건축사사무소 (김지덕, 이수형)
+| 프로젝트 매니저 = 
+| 개최대회 = [[2002년 FIFA 월드컵]]<br />[[2003년 피스컵]]<br />[[2005년 피스컵]]<br />[[2005년 EAFF 동아시안컵]]<br />[[2005년 EAFF 여자 동아시안컵]]<br />[[2009년 전국체육대회]]<br />[[2017년 FIFA U-20 월드컵]]<br />[[FA컵 (대한민국)|FA컵]]<br />[[K리그1]] (2002년 ~ 현재)<br />[[K리그2]] (2014년 ~ 2022년)<br />[[K4리그]] (2022년)
+| 홈경기장 = [[대전 하나 시티즌|대전 하나 시티즌 FC]] (2002년 ~ 현재)<br />[[대전 하나 시티즌 B|대전 하나 시티즌 FC B]] (2022년)
+| 좌석 = 40,903석<ref name="전국공공체육시설현황"/><ref name="대전광역시시설관리공단">{{웹 인용|url=http://www.djsiseol.or.kr/portal/sub020401_02.asp|제목=대전월드컵경기장 시설현황|출판사=대전광역시시설관리공단}}</ref>
+| 수용인원 = 42,000명<ref name="전국공공체육시설현황"/><ref name="대전광역시시설관리공단"/>
+| 규모 = 잔디면적 105 × 68  [[미터|m]]
+}}
+
+'''대전월드컵경기장'''(大田월드컵競技場, {{lang|en|Daejeon World Cup Stadium}})은 [[대한민국]] [[대전광역시]]에 있는 [[축구 경기장]]이다. [[대전광역시]] 시설관리공단에서 관리하고 있다.
+
+== 건축 ==
+에산 1,478억 원을 들여 1998년 12월 16일 착공하여 2001년 9월 13일 완공, 개장하였다. 대지 면적은 169,769[[제곱미터|m<sup>2</sup>]], 연면적은 100,689.92m<sup>2</sup>이다. [[대한민국]] 최초로 반 개폐식 지붕구조<!-- 지붕의 골격은 우리나라 전통 지게의 모양을 본따 설계했다 -->를 갖춘 축구 전용 경기장으로, 42,176명을 수용할 수 있다. 완공 이후 K리그에 참가중인 [[대전 하나 시티즌]]의 홈으로 사용되고 있다. 경기장 내에는 월드컵 홍보관과 스포츠센터가 있다. 인근에는 478 석 규모의 관중석을 갖춘 보조경기장이 있다.
+
+== 활용 ==
+[[대한민국]]과 [[이탈리아]]의 [[2002년 FIFA 월드컵]] 16강전이 열렸던 장소이다. [[2016년]] K리그 그린 스타디움에 선정되었다. [[호남고속도로지선]] [[유성 나들목]]과 가깝고, 경기장 옆에는 [[노은농수산물도매시장]]이 있으며, [[월드컵경기장역 (대전)|월드컵경기장역]]은 [[노은농수산물도매시장]]과 더 가깝다.
+
+== 개최된 국제 경기 목록 ==
+=== 2002년 FIFA 월드컵 ===
+{| class="wikitable" style="text-align:center;"
+|-
+!날짜
+!팀 1
+!스코어
+!팀 2
+!라운드
+|-
+|[[2002년]] [[6월 12일]]||style="text-align:right;"|{{축구나라2|RSA}}||2 - '''3'''||style="text-align:left;"|'''{{축구나라|ESP}}'''||B조 3차전
+|-
+|[[2002년]] [[6월 14일]]||style="text-align:right;"|'''{{축구나라2|POL}}'''||'''3''' - 1||style="text-align:left;"|{{축구나라|USA}}||D조 3차전
+|-
+|[[2002년]] [[6월 18일]]||style="text-align:right;"|'''{{축구나라2|KOR|1997}}'''||'''2''' - 1<br /><small>[[연장전]] 골든골</small>||style="text-align:left;"|{{축구나라|ITA}}||16강전 8경기
+|}
+
+=== 2003년 피스컵 ===
+{| class="wikitable" style="text-align:center;"
+|-
+!날짜
+!팀 1
+!스코어
+!팀 2
+!라운드
+|-
+|[[2003년]] [[7월 15일]]||style="text-align:right;"|{{국기그림|RSA}} [[카이저 치프스 FC|카이저 치프스]]||0 - '''2'''||style="text-align:left;"|{{국기그림|FRA}} '''[[올랭피크 리옹]]'''||A조
+|-
+|[[2003년]] [[7월 18일]]||style="text-align:right;"|{{국기그림|GER}} [[1860 뮌헨]]||0 - 0||style="text-align:left;"|{{국기그림|USA}} [[로스앤젤레스 갤럭시]]||B조
+|-
+|}
+
+=== 2005년 피스컵 ===
+{| class="wikitable" style="text-align:center;"
+|-
+!날짜
+!팀 1
+!스코어
+!팀 2
+!라운드
+|-
+|[[2005년]] [[7월 16일]]||style="text-align:right;"|{{국기그림|RSA}} '''[[마멜로디 선다운즈]]'''||'''1''' - 0||style="text-align:left;"|{{국기그림|ESP}} [[레알 소시에다드]]||B조
+|-
+|[[2005년]] [[7월 19일]]||style="text-align:right;"|{{국기그림|KOR|1997}} [[성남 FC|성남 일화 천마]]||0 - '''1'''||style="text-align:left;"|{{국기그림|COL}} '''[[온세 칼다스]]'''||A조
+|-
+|}
+
+=== 2005년 동아시아 축구 선수권 대회 ===
+{| class="wikitable" style="text-align:center;"
+|-
+!날짜
+!팀 1
+!스코어
+!팀 2
+!라운드
+|-
+|[[2005년]] [[7월 31일]]||style="text-align:right;"|{{fb|KOR|1997}}||1 - 1||style="text-align:left;"|{{fb|CHN}}||1차전
+|-
+|[[2005년]] [[7월 31일]]||style="text-align:right;"|'''{{fb|PRK}}'''||'''1''' - 0||style="text-align:left;"|{{fb|JPN}}||1차전
+|-
+|[[2005년]] [[8월 3일]]||style="text-align:right;"|{{fb|JPN}}||2 - 2||style="text-align:left;"|{{fb|CHN}}||2차전
+|-
+|}
+
+=== 2005년 동아시아 여자 축구 선수권 대회 ===
+{| class="wikitable" style="text-align:center;"
+|-
+!날짜
+!팀 1
+!스코어
+!팀 2
+!라운드
+|-
+|[[2005년]] [[8월 3일]]||style="text-align:right;"|{{fbw|JPN}}||0 - 0||style="text-align:left;"|{{fbw|CHN}}||2차전
+|-
+|}
+
+=== 2017년 FIFA U-20 월드컵 ===
+{| class="wikitable" style="text-align:center;"
+|-
+!날짜
+!팀 1
+!스코어
+!팀 2
+!라운드
+|-
+| [[2017년]] [[5월 20일]]||style="text-align:right;"|'''{{축구나라2|VEN}}'''|| '''2''' - 0||style="text-align:left;"|{{축구나라|GER}}|| B조
+|-
+| [[2017년]] [[5월 20일]]||style="text-align:right;"|{{축구나라2|VAN}}||2 - '''3''' ||style="text-align:left;"|'''{{축구나라|MEX}}'''|| B조
+|-
+| [[2017년]] [[5월 23일]]||style="text-align:right;"|'''{{축구나라2|VEN}}'''|| '''7''' - 0 ||style="text-align:left;"|{{축구나라|VAN}}|| B조
+|-
+| [[2017년]] [[5월 23일]]||style="text-align:right;"|{{축구나라2|MEX}}|| 0 - 0 ||style="text-align:left;"|{{축구나라|GER}}|| B조
+|-
+| [[2017년]] [[5월 28일]]||style="text-align:right;"|{{축구나라2|NZL}}|| 0 - '''2''' ||style="text-align:left;"|'''{{축구나라|FRA}}'''|| E조
+|-
+| [[2017년]] [[5월 28일]]||style="text-align:right;"|{{축구나라2|USA}}|| 1 - 1||style="text-align:left;"|{{축구나라|KSA}}|| F조
+|-
+| [[2017년]] [[5월 30일]]||style="text-align:right;"|'''{{축구나라2|VEN}}'''||'''1''' - 0<br /><small>[[연장전]]</small> ||style="text-align:left;"|{{축구나라|JPN}}||16강
+|-
+| [[2017년]] [[6월 4일]]||style="text-align:right;"|{{축구나라2|POR}}|| 2 - '''2'''<br /><small>[[승부차기|PSO]] 4 - '''5'''</small>||style="text-align:left;"|'''{{축구나라|URU}}'''||8강
+|-
+| [[2017년]] [[6월 8일]]||style="text-align:right;"| {{축구나라|URU}} ||1 - '''1'''<br /><small>[[승부차기|PSO]] 3 - '''4'''</small>||style="text-align:left;"|'''{{축구나라|VEN}}'''||4강
+|}
+
+== 사진 ==
+<gallery>
+|대전월드컵경기장 외부
+|대전월드컵 경기장 앞 프란치스코 교활 동상
+|대전월드컵경기장 내부
+|대전월드컵경기장 원정석 N석
+|전북현대 vs 대전시티즌
+파일:대전월드컵경기장 앞 피버노바 동상.jpg|대전월드컵경기장 앞 피버노바 동상
+파일:20160114 154624 HDR.jpg|최은성 기념 부착물
+파일:20160114 151433 HDR.jpg|대전월드컵경기장 W석 테이블석
+파일:20160114 150300 HDR.jpg|대전월드컵경기장 앞 주차장 및 영화 신세계 촬영지
+파일:은퇴 판넬 앞 김은중.jpg|은퇴식에서 대전월드컵경기장 내 [[김은중]]의 18번 헌정을 기념하는 부착물
+</gallery>
+
+== 같이 보기 ==
+* [[대한민국의 축구 경기장 목록]]
+== 각주 ==
+<references/>
+
+== 참고 문헌 ==
+* {{백과사전 인용|url=http://www.doopedia.co.kr/doopedia/master/master.do?_method=view&MAS_IDX=101013000782184|제목=대전월드컵경기장|백과사전=두피디아|출판사=두산}}
+* {{웹 인용|url=http://www.djsiseol.or.kr/portal/sub020401_02.asp|제목=대전월드컵경기장 시설현황|출판사=대전광역시시설관리공단}}
+* {{서적 인용|url=https://www.mcst.go.kr/kor/s_policy/dept/deptView.jsp?pSeq=1227&pDataCD=0408010000&pType=|제목=전국 공공체육 시설 현황 (2017년말 기준)|출판사=대한민국 문화체육관광부|연도=2019}}
+
+== 외부 링크 ==
+{{위키공용분류}}
+* [http://www.djsiseol.or.kr/portal/sub020401_02.asp 대전광역시시설관리공단 - 대전월드컵경기장]
+* [http://www.dcfc.co.kr/club/purpleArena.html 대전 시티즌 - 퍼플 아레나] {{웹아카이브|url=https://web.archive.org/web/20190818131405/http://www.dcfc.co.kr/club/purpleArena.html}}
+* [http://www.doopedia.co.kr/doopedia/master/master.do?_method=view&MAS_IDX=101013000782184 두피디아 - 대전월드컵경기장]
+* [https://terms.naver.com/entry.nhn?docId=1209248&cid=40942&categoryId=33084 네이버 지식백과 - 대전월드컵경기장] {{깨진 링크|url=https://terms.naver.com/entry.nhn?docId=1209248&cid=40942&categoryId=33084 }}
+* [https://map.naver.com/local/siteview.nhn?code=11622949 네이버 지도 - 대전월드컵경기장]
+* [https://place.map.kakao.com/7830463 카카오맵 - 대전월드컵경기장]
+
+{{대전 시티즌}}
+{{K리그 경기장}}
+{{2002년 FIFA 월드컵 경기장}}
+{{2017년 FIFA U-20 월드컵 경기장}}
+{{대전광역시의 스포츠 시설}}
+
+{{전거 통제}}
+{{위키데이터 속성 추적}}
+
+[[분류:2001년 설립]]
+[[분류:2001년 완공된 스포츠 시설]]
+[[분류:대전광역시의 건축물]]
+[[분류:대전 유성구의 건축물]]
+[[분류:대전광역시의 스포츠]]
+[[분류:대한민국의 축구 경기장]]
+[[분류:대전광역시의 축구 경기장]]
+[[분류:대전 하나 시티즌]]
+[[분류:대한민국의 2002년 FIFA 월드컵 경기장]]
+[[분류:2017년 FIFA U-20 월드컵 경기장]]

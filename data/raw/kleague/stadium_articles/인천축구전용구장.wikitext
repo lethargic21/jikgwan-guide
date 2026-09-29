@@ -1,0 +1,188 @@
+{{경기장 정보
+| 이름 = 인천축구전용경기장
+| 전체이름 = 인천축구전용경기장
+| 원어이름 = {{lang|en|Incheon Football Stadium}}
+| 이전이름 = 
+| 별칭 = 숭의 아레나, 숭의
+| 그림 = Incheon Soccer Stadium 2.JPG
+| 설명문 = 
+| 위치 = {{국기|대한민국}} [[인천광역시]] [[제물포구]] 참외전로 246 ([[도원동]])
+| 좌표 = {{좌표|37.466131|N|126.643035|E|format=dms|display=inline, title}}
+| 기공 = 2008년 5월 7일<ref>{{뉴스 인용|url=https://www.yna.co.kr/view/AKR20080507156100007|제목=프로축구 인천, 전용구장 숭의아레나 기공식|출판사=연합뉴스|저자=한상용|날짜=2008-05-07}}</ref>
+| 건설기간 = 3년 10개월
+| 개장 = 2012년 3월 11일<ref name="전국공공체육시설현황">{{서적 인용|url=https://www.mcst.go.kr/kor/s_policy/dept/deptView.jsp?pSeq=1227&pDataCD=0408010000&pType=|제목=전국 공공체육 시설 현황 (2017년말 기준)|출판사=대한민국 문화체육관광부|연도=2019|쪽=25}}</ref><ref name="한국향토문화전자대전">{{백과사전 인용|url=http://www.grandculture.net/ko/Contents?dataType=99&contents_id=GC04701327|제목=인천축구전용경기장|백과사전=한국향토문화전자대전|출판사=한국학중앙연구원}}{{깨진 링크|url=http://www.grandculture.net/ko/Contents?dataType=99&contents_id=GC04701327 }}</ref><ref>{{뉴스 인용|url=http://www.kyeongin.com/main/view.php?key=639873|제목=인천서 축구의 숨결을 느낀다|출판사=경인일보|저자=김영준, 정운|날짜=2012-03-12}}</ref>
+| 보수 = 
+| 확장 = 
+| 폐장 = 
+| 철거 = 
+| 소유 = [[인천광역시청]]<ref name="전국공공체육시설현황"/>
+| 운영 = [[인천 유나이티드 FC]]<ref name="전국공공체육시설현황"/>
+| 표면 = 천연잔디
+| 건설비용 = 약 1,100억 [[대한민국 원|원]]
+| 설계 = 무영건축<ref name="archi">{{웹 인용 |제목=숭의운동장 복합단지 개발사업 |url=http://www.mooyoung.com/board/project/board_view.asp?page=2&num=1342 |웹사이트=무영건축 홈페이지 |확인날짜=2024년 11월 25일}}</ref><br>로세티<ref>{{웹 인용|url=https://www.rossetti.com/projects/incheon-stadium-at-sungui-arena-park|제목=INCHEON STADIUM AT SUNGUI ARENA PARK|출판사=로세티}}</ref>
+| 건설          = 
+| 구조 엔지니어 = 
+| 서비스 엔지니어 = 
+| 프로젝트 매니저 = 
+| 도급회사 = 
+| 개최대회 = [[2014년 아시안 게임]]<br />[[2017년 FIFA U-20 월드컵]]<br />[[코리아컵]]<br />[[WK리그 챔피언십]] (2014년)<br />[[K리그1]] (2012년~현재)<br />[[K리그2]] (2025년)
+| 홈경기장 = [[인천 유나이티드 FC]] (2012년 ~ 현재)<br />[[인천 현대제철 레드엔젤스 WFC]] (2014년)
+| 좌석 = 20,356석<ref name="전국공공체육시설현황"/>
+| 수용인원 = 20,356명<ref name="전국공공체육시설현황"/>
+| 규모 = 
+}}
+
+'''인천축구전용경기장'''(仁川蹴球專用競技場, {{lang|en|Incheon Football Stadium}})은 [[대한민국]] [[인천광역시]] [[제물포구]] 도원동에 있는 [[축구 전용 경기장]]이다. [[인천 유나이티드 FC]]가 2012년 시즌부터 홈 경기장으로 사용하고 있으며, 2013년 9월 6일에는 [[대한민국 축구 국가대표팀]]과 [[아이티 축구 국가대표팀]]의 평가전이 개최되었다.
+
+한 때는 '숭의아레나파크'<ref>[http://www.asiatoday.co.kr/news/view.asp?seq=493782 인천유나이티드의 새 안방 ′숭의아레나파크′], 《아시아투데이》, {{날짜|2011-06-23}}.</ref>로 불렸으나 2012년 2월 23일 경기장 명칭이 '인천축구전용경기장'으로 결정되었다.<ref>{{뉴스 인용|제목=숭의구장 이름 '인천축구전용경기장'|url=http://news.itimes.co.kr/news/articleView.html?idxno=449825|날짜=2012-02-24|출판사=인천일보|저자=|확인날짜=2012-02-24|archive-date=2013-09-21|archive-url=https://web.archive.org/web/20130921061456/http://news.itimes.co.kr/news/articleView.html?idxno=449825|url-status=}}</ref>
+
+== 건설 과정 ==
+2008년 6월 13일 철거된 [[숭의종합경기장]] (구 인천공설운동장) 일대에 대한 '숭의운동장 도시개발사업'의 일환으로 경기장 건설이 추진되었다.<ref name="digital">{{웹 인용 |제목=숭의 운동장 도시 재생 사업 |url=https://www.grandculture.net/michuhol/toc/GC04700701 |웹사이트=디지털미추홀구문화대전 |확인날짜=2024년 11월 25일}}</ref> 건설 사업은 인천도시개발공사와 현대건설, 대우건설, 포스코건설, 태영건설, 한진중공업 등 5개 기관의 민관합작사업(PPP)으로 진행되었다.<ref name="iu">{{웹 인용 |제목=숭의 운동장 PF 자금조달 확정 |url=https://www.ih.co.kr/main/bbs/bbsMsgDetail.do?msg_seq=247&bcd=idtc_press&pgno=157 |웹사이트=인천도시공사 |확인날짜=2024년 11월 25일}}</ref> 약 1천100억원을 들여 상업 시설 등과 함께 [[숭의종합경기장|축구장]]과 [[숭의 야구장|야구장]] 자리에 경기장이 신축되었다.<ref>{{뉴스 인용|제목=숭의축구장 최첨단 방송시설 구축 |url=https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=101&oid=277&aid=0002012753 |출판사=아시아경제 |날짜=2008년 8월 6일 }}</ref>
+
+2011년 9월에 완공될 예정이었으나, 2011년 6월에 경기장 내에 들어설 [[홈플러스]]의 입점 문제<ref name="digital2">{{웹 인용 |제목=숭의운동장 홈플러스 입점 반대 운동 |url=https://www.grandculture.net/michuhol/search/GC04700640?keyword=%ED%99%88%ED%94%8C%EB%9F%AC%EC%8A%A4%20%EC%88%AD%EC%9D%98&page=1 |웹사이트=디지털미추홀구문화대전}}</ref>로 공사가 중단.<ref>[https://www.yna.co.kr/view/AKR20110613104600065 인천 숭의운동장 개발사업 공사 전면 중단] {{웹아카이브|url=https://web.archive.org/web/20130921060150/http://app.yonhapnews.co.kr/YNA/Basic/article/new_search/YIBW_showSearchArticle.aspx?searchpart=article&searchtext=%ec%88%ad%ec%9d%98%20%ec%9a%b4%eb%8f%99%ec%9e%a5&contents_id=AKR20110613104600065#}}, 《연합뉴스》, {{날짜|2011-06-13}}.</ref> 당해 11월 다시 공사가 재개되어 [[2012년 K리그]] 개막에 맞추어 완공되었다.<ref>{{뉴스 인용|제목=숭의구장, K리그에 유럽을 심다.|url=https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=107&oid=343&aid=0000013920|날짜=2011-12-08|출판사=베스트일레븐|저자=전성호}}</ref>
+
+경기장 이외에 세 동의 주상복합건물, 동쪽의 스포츠몰 등이 연계되어 건설될 예정이었다. 하지만 사업성 부족 등의 이유로 해당 시설의 건설이 장기간 연기되었다. 이후 해당 부지 내 상업용지의 비율을 줄이는 대신 주거용지의 비율을 늘리는 방식으로 사업성을 증대했다.<ref name="news2">{{뉴스 인용 |제목=숭의재생사업 판단미스, 수백억 공중분해 |url=https://www.kyeonggi.com/article/201209110472033 |확인날짜=2024년 11월 25일 |뉴스=경기일보}}</ref> 한편 현대건설컨소시움에서 지역주택조합으로 주상복합 부분의 사업 주체가 변경되었다. 2017년부터 주상복합 부분의 사업이 재개, 2022년 4월에 공사를 마치고 입주가 시작됐다.
+
+== 시설 ==
+지하 3층, 지상 5층 규모. 좌석수는 약 20,300명이다.
+
+경기장 밑으로는 지하 1층에서부터 3층까지 총 2,000여대를 주차할 수 있는 주차장이 설치되어 있다.
+
+== 특징 ==
+
+특징으로는 선수단의 벤치가 일반좌석에 포함됐다는 점이 있다. W석(본부석) 1층에서 경기를 지켜보는 경우 그라운드에 놓인 벤치로 인해 시야에 방해를 받는 경우가 있지만 인천축구전용경기장은 벤치를 관중석으로 올려 이 단점을 보완했다.
+
+또한 서포터석을 S석으로 배치, 응원소리가 경기장 전체에 울려퍼지도록 설계되었다. 독일 도르트문트의 홈구장과 같은 단층 구조를 하고있어 웅장함을 준다. 또한 S석은 일어서서 응원하는 서포터들의 편의를 고려하여 스탠딩석으로 설계되었다. 2024년 시즌에는 스탠딩석의 범위를 S석 하단에서 상단까지 확장하는 공사를 진행하여, 좌석수가 2배로 증가되었다.
+
+또 [[경인선]] [[도원역]]과 연계된 북측 2층 스탠드에는 피크닉석을 두어 경기가 없을 경우 인천시민에게 공개, 다양한 이벤트 행사와 다목적 문화공간 등 시민들의 휴게 및 만남의 광장으로 이용할 수 있도록 했다.
+
+경기장의 그라운드와 스탠드의 거리는 최소화하여 박진감 넘치는 경기 관람을 할 수 있게 했다. 관중수의 증가추세에 따라 관중석의 증축도 가능하다고 한다. 동측 스탠드는 가변무대로 전환 할 수 있어 문화공연장으로 활용 가능하다.
+
+경기장 동측에는 연못, 분수대, 쉼터 등 시민 휴식공간과 남측에는 유소년 축구경기장, 체력단련 시설, 숲속 놀이터, 잔디마당, 산책로 등 체육공원도 조성된다.
+
+특히 인천 유나이티드의 재정 안정을 고려, 경기장 내부 공간에 웨딩홀, 피트니스 클럽, 홈플러스, 축구체험 및 전시관 등 수익시설로 활용할 수 있도록 했다.
+
+== 기록 ==
+* 첫 경기 : [[K리그 2012]] 2라운드 [[인천 유나이티드 FC|인천 유나이티드]] 0 : '''2''' [[수원 삼성 블루윙즈]]
+* 첫 골 : {{국기그림|몬테네그로}} [[제난 라돈치치|라돈치치]] (2012년 3월 11일, [[K리그 2012]] [[수원 삼성 블루윙즈]])
+* 첫 승 : [[K리그 2012]] 4라운드 [[인천 유나이티드 FC|인천 유나이티드]] 2 : 1 [[대전 하나 시티즌|대전 시티즌]]
+
+=== 2014년 아시안 게임 축구 남자 ===
+{| class="wikitable" style="text-align:center;"
+|-
+!날짜
+!팀 1
+!스코어
+!팀 2
+!라운드
+|-
+|[[2014년]] [[9월 14일]]||style="text-align:right;"|'''{{fb|IRQ}}'''||'''4''' - 0||style="text-align:left;"|{{fb|NEP}}||D조
+|-
+|[[2014년]] [[9월 14일]]||style="text-align:right;"|'''{{fb|JPN}}'''||'''4''' - 1||style="text-align:left;"|{{fb|KWT}}||D조
+|-
+|[[2014년]] [[9월 15일]]||style="text-align:right;"|'''{{fb|PRK}}'''||'''3''' - 0||style="text-align:left;"|{{fb|CHN}}||F조
+|-
+|[[2014년]] [[9월 18일]]||style="text-align:right;"|{{fb|MDV}}||0 - '''4'''||style="text-align:left;"|'''{{fb|IDN}}'''||E조
+|-
+|[[2014년]] [[9월 18일]]||style="text-align:right;"|'''{{fb|THA}}'''||'''3''' - 0||style="text-align:left;"|{{fb|TLS}}||E조
+|-
+|[[2014년]] [[9월 21일]]||style="text-align:right;"|'''{{fb|TJK}}'''||'''1''' - 0||style="text-align:left;"|{{fb|OMN}}||C조
+|-
+|[[2014년]] [[9월 22일]]||style="text-align:right;"|{{fb|IDN}}||0 - '''6'''||style="text-align:left;"|'''{{fb|THA}}'''||E조
+|-
+|[[2014년]] [[9월 26일]]||style="text-align:right;"|'''{{fb|IRQ}}'''||'''4''' - 2||style="text-align:left;"|{{fb|TJK}}||16강전
+|-
+|[[2014년]] [[9월 28일]]||style="text-align:right;"|'''{{fb|THA}}'''||'''2''' - 0||style="text-align:left;"|{{fb|JOR}}||8강전
+|-
+|[[2014년]] [[9월 30일]]||style="text-align:right;"|{{fb|IRQ}}||0 - '''1'''||style="text-align:left;"|'''{{fb|PRK}}'''||준결승전
+|-
+|[[2014년]] [[10월 2일]]||style="text-align:right;"|{{fb|THA}}||0 - '''1'''||style="text-align:left;"|'''{{fb|IRQ}}'''||동메달 결정전
+|-
+|}
+
+=== 2014년 아시안 게임 축구 여자 ===
+{| class="wikitable" style="text-align:center;"
+|-
+!날짜
+!팀 1
+!스코어
+!팀 2
+!라운드
+|-
+|[[2014년]] [[9월 29일]]||style="text-align:right;"|'''{{fb|JPN}}'''||'''3''' - 0||style="text-align:left;"|{{fb|VIE}}||준결승
+|-
+|[[2014년]] [[9월 29일]]||style="text-align:right;"|'''{{fb|KOR}}'''||'''3''' - 0||style="text-align:left;"|{{fb|VIE}}||동메달 결정전
+|-
+|}
+
+=== 2017년 FIFA U-20 월드컵 ===
+{| class="wikitable" style="text-align:center;"
+|-
+!날짜
+!팀 1
+!스코어
+!팀 2
+!라운드
+|-
+|[[2017년]] [[5월 22일]]||style="text-align:right;"|{{fb|ECU}}||3 - 3||style="text-align:left;"|{{fb|USA}}||F조
+|-
+|[[2017년]] [[5월 22일]]||style="text-align:right;"|{{fb|KSA}}||0 - '''2'''||style="text-align:left;"|'''{{fb|SEN}}'''||F조
+|-
+|[[2017년]] [[5월 25일]]||style="text-align:right;"|{{fb|ECU}}||1 - '''2'''||style="text-align:left;"|'''{{fb|KSA}}'''||F조
+|-
+|[[2017년]] [[5월 25일]]||style="text-align:right;"|{{fb|SEN}}||0 - '''1'''||style="text-align:left;"|'''{{fb|USA}}'''||F조
+|-
+|[[2017년]] [[5월 27일]]||style="text-align:right;"|'''{{fb|POR}}'''||'''2''' - 1||style="text-align:left;"|{{fb|IRN}}||C조
+|-
+|[[2017년]] [[5월 27일]]||style="text-align:right;"|{{fb|URU}}||0 - 0||style="text-align:left;"|{{fb|RSA}}||D조
+|-
+|[[2017년]] [[6월 1일]]||style="text-align:right;"|'''{{fb|USA}}'''||'''6''' - 0||style="text-align:left;"|{{fb|NZL}}||16강
+|-
+|[[2017년]] [[6월 1일]]||style="text-align:right;"|'''{{fb|MEX}}'''||'''1''' - 0||style="text-align:left;"|{{fb|SEN}}||16강
+|-
+|}
+
+== 사진 ==
+<gallery>
+파일:Incheon Soccer Stadium 1.JPG|주 경기장 외관
+파일:Incheon Soccer Stadium 3.JPG|주 경기장 내부
+파일:Incheon Soccer Stadium 4.JPG|주 경기장 내부
+파일:Incheon Soccer Stadium 5.JPG|주 경기장 내부
+파일:Incheon Soccer Stadium 6.JPG|주 경기장 내부
+파일:Incheon Soccer Stadium 7.JPG|주 경기장 내부
+</gallery>
+
+== 각주 ==
+<references />
+
+== 참고 문헌 ==
+* {{백과사전 인용|url=http://www.grandculture.net/ko/Contents?dataType=99&contents_id=GC04701327|제목=인천축구전용경기장|백과사전=한국향토문화전자대전|출판사=한국학중앙연구원}}{{깨진 링크|url=http://www.grandculture.net/ko/Contents?dataType=99&contents_id=GC04701327 }}
+* {{서적 인용|url=https://www.mcst.go.kr/kor/s_policy/dept/deptView.jsp?pSeq=1227&pDataCD=0408010000&pType=|제목=전국 공공체육 시설 현황 (2017년말 기준)|출판사=대한민국 문화체육관광부|연도=2019}}
+
+== 같이 보기 ==
+* [[숭의종합경기장]]
+
+== 외부 링크 ==
+* {{위키공용분류-줄}}
+* [https://www.incheonutd.com/club/stadium.php 인천 유나이티드 FC - 인천축구전용경기장]
+* [http://www.grandculture.net/ko/Contents?dataType=99&contents_id=GC04701327 한국향토문화전자대전 - 인천축구전용경기장]{{깨진 링크|url=http://www.grandculture.net/ko/Contents?dataType=99&contents_id=GC04701327 }}
+* [https://terms.naver.com/entry.nhn?docId=2624037&cid=51927&categoryId=53697 네이버 지식백과 - 인천축구전용경기장]
+* [https://map.naver.com/local/siteview.nhn?code=16576248 네이버 지도 - 인천축구전용경기장]
+* [https://place.map.kakao.com/11462023 카카오맵 - 인천축구전용경기장]
+
+{{인천 유나이티드}}
+{{K리그 경기장}}
+{{2017년 FIFA U-20 월드컵 경기장}}
+
+{{전거 통제}}
+{{위키데이터 속성 추적}}
+
+[[분류:2012년 설립]]
+[[분류:2012년 완공된 스포츠 시설]]
+[[분류:인천광역시의 건축물]]
+[[분류:인천 미추홀구의 건축물]]
+[[분류:인천광역시의 스포츠]]
+[[분류:대한민국의 축구 경기장]]
+[[분류:인천광역시의 축구 경기장]]
+[[분류:2014년 아시안 게임 경기장]]
+[[분류:2017년 FIFA U-20 월드컵 경기장]]

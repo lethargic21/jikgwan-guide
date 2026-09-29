@@ -1,0 +1,76 @@
+{{경기장 정보
+|이름 = 김천종합운동장
+|전체이름 = 김천종합운동장
+|원어이름 = {{lang|en|Gimcheon Stadium}}
+|이전이름 = 
+|사진 = Gimcheon-Stadion.png
+|사진설명 = 
+|위치 = [[대한민국]] [[경상북도]] [[김천시]] 운동장길 1 ([[삼락동 (김천시)|삼락동]] 488-1번지)
+|좌표 = {{좌표|36.139666|N|128.086509|E|format=dms|display=inline, title}}
+|기공 = 1996년 3월 24일<ref name="한국향토문화전자대전">{{백과사전 인용|url=http://www.grandculture.net/ko/Contents?dataType=99&contents_id=GC03201330|제목=김천종합운동장|백과사전=한국향토문화전자대전|출판사=한국학중앙연구원}}{{깨진 링크|url=http://www.grandculture.net/ko/Contents?dataType=99&contents_id=GC03201330 }}</ref>
+|건설기간 = 4년 1개월
+|개장 = 2000년 4월 15일<ref name="전국공공체육시설현황">{{서적 인용|url=http://www.mcst.go.kr/kor/s_policy/dept/deptView.jsp?pSeq=1821&pDataCD=0417000000|제목=2023 전국 공공체육시설 현황 (2022년 12월말 기준)|출판사=대한민국 문화체육관광부|연도=2024}}</ref><ref name="두피디아">{{백과사전 인용|url=http://www.doopedia.co.kr/doopedia/master/master.do?_method=view&MAS_IDX=101013000822881|제목=김천종합운동장|백과사전=두피디아|출판사=두산}}</ref><ref name="한국향토문화전자대전"/><ref name="김천시청(구)">{{웹 인용|url=http://gimcheon.go.kr/administration/page.htm?mnu_siteid=inno&mnu_uid=2625&|제목=김천시 체육시설 현황 - 김천종합운동장|출판사=김천시청|확인날짜=2019-08-14|보존url=https://web.archive.org/web/20160406073004/http://gimcheon.go.kr/administration/page.htm?mnu_siteid=inno&mnu_uid=2625&|보존날짜=2016-04-06|url-status=dead}}</ref><ref name="김천종합스포츠타운(구)">{{웹 인용|url=http://att.gc.go.kr/mini/sports/page.htm?mnu_siteid=sports&mnu_uid=194&|제목=김천종합스포츠타운 - 김천종합운동장|출판사=김천시청}}{{깨진 링크|url=http://att.gc.go.kr/mini/sports/page.htm?mnu_siteid=sports&mnu_uid=194& }}</ref>
+|보수 = 
+|확장 = 
+|폐장 = 
+|철거 = 
+|소유 = [[김천시청]]<ref name="전국공공체육시설현황"/>
+|운영 = [[김천시청]] 행정복지국 스포츠산업과<ref name="전국공공체육시설현황"/>
+|설계 = 
+|건설 = 
+|도급 = 
+|건설비용 = 409억 6천 2백만 [[대한민국 원|원]]<ref name="전국공공체육시설현황"/><ref name="김천시청(구)"/><ref name="김천종합스포츠타운(구)"/>
+|표면 = 천연잔디 (필드), 우레탄 (트랙)
+|규모 = 필드: 112 × 76 [[미터|m]]<br />트랙: 400 [[미터|m]] × 8 레인
+|좌석 = 25,000석<ref name="전국공공체육시설현황"/><ref name="김천시청(구)"/><ref name="김천종합스포츠타운(구)"/>
+|수용인원 = 30,000명<ref name="전국공공체육시설현황"/><ref name="김천시청">{{웹 인용|url=https://www.gc.go.kr/portal/contents.do?mId=1405020000|제목=김천종합운동장|출판사=김천시청}}</ref><ref name="김천시청(구)"/><ref name="김천종합스포츠타운">{{웹 인용|url=https://www.gc.go.kr/sports/contents.do?mId=0101000000|제목=김천종합운동장|웹사이트=김천종합스포츠타운|출판사=김천시청}}</ref><ref name="김천종합스포츠타운(구)"/>
+|홈경기장 = [[김천 상무 FC]] (2021년~현재)
+|개최대회 = [[2006년 전국체육대회]]<br />[[코리아컵]] (2021년~현재)<br />[[K리그1]] (2022년~현재)<br />[[K리그2]] (2021년~2023년)
+}}
+
+'''김천종합운동장'''(金泉綜合運動場, {{lang|en|Gimcheon Stadium}})은 [[대한민국]] [[경상북도]] [[김천시]]에 있는 스포츠 시설이다. 스포츠 시설이다. 천연잔디 필드와 우레탄 트랙이 갖춰진 경기장이며, 2000년 4월에 준공되었다.<ref name="전국공공체육시설현황"/><ref name="두피디아"/> [[김천종합스포츠타운]]의 주경기장으로 활용되고 있으며, [[2006년 전국체육대회]]의 주경기장으로 사용되었다.
+
+== 각주 ==
+<references/>
+
+== 참고 문헌 ==
+{{참고 자료 시작}}
+* {{백과사전 인용|url=http://www.grandculture.net/ko/Contents?dataType=99&contents_id=GC03201330|제목=김천종합운동장|백과사전=한국향토문화전자대전|출판사=한국학중앙연구원}}{{깨진 링크|url=http://www.grandculture.net/ko/Contents?dataType=99&contents_id=GC03201330 }}
+* {{백과사전 인용|url=http://www.doopedia.co.kr/doopedia/master/master.do?_method=view&MAS_IDX=101013000822881|제목=김천종합운동장|백과사전=두피디아|출판사=두산}}
+* {{웹 인용|url=https://www.gc.go.kr/portal/contents.do?mId=1405020000|제목=김천종합운동장|출판사=김천시청}}
+* {{웹 인용|url=http://gimcheon.go.kr/administration/page.htm?mnu_siteid=inno&mnu_uid=2625&|제목=김천시 체육시설 현황 - 김천종합운동장|출판사=김천시청|확인날짜=2019-08-14|보존url=https://web.archive.org/web/20160406073004/http://gimcheon.go.kr/administration/page.htm?mnu_siteid=inno&mnu_uid=2625&|보존날짜=2016-04-06|url-status=dead}}
+* {{웹 인용|url=https://www.gc.go.kr/sports/contents.do?mId=0101000000|제목=김천종합운동장|웹사이트=김천종합스포츠타운|출판사=김천시청}}
+* {{웹 인용|url=http://att.gc.go.kr/mini/sports/page.htm?mnu_siteid=sports&mnu_uid=194&|제목=김천종합스포츠타운 - 김천종합운동장|출판사=김천시청}}{{깨진 링크|url=http://att.gc.go.kr/mini/sports/page.htm?mnu_siteid=sports&mnu_uid=194& }}
+* {{서적 인용|url=https://www.mcst.go.kr/kor/s_policy/dept/deptView.jsp?pSeq=1227&pDataCD=0408010000&pType=|제목=전국 공공체육 시설 현황 (2017년말 기준)|출판사=대한민국 문화체육관광부|연도=2019}}
+* {{서적 인용|url=http://www.mcst.go.kr/kor/s_policy/dept/deptView.jsp?pSeq=1451&pDataCD=0417000000|제목=2020년 전국 공공체육시설 현황 (2019년말 기준)|출판사=대한민국 문화체육관광부|연도=2021}}
+* {{서적 인용|url=http://www.mcst.go.kr/kor/s_policy/dept/deptView.jsp?pSeq=1821&pDataCD=0417000000|제목=2023 전국 공공체육시설 현황 (2022년 12월말 기준)|출판사=대한민국 문화체육관광부|연도=2024}}
+{{참고 자료 끝}}
+
+== 같이 보기 ==
+* [[김천종합스포츠타운]]
+* [[김천종합스포츠타운 보조경기장]]
+* [[2006년 전국체육대회]]
+* [[김천 상무 FC]]
+
+== 외부 링크 ==
+* [https://www.gc.go.kr/sports 김천종합스포츠타운 공식 웹사이트]
+* [https://www.gc.go.kr/sports/contents.do?mId=0101000000 김천종합스포츠타운 - 김천종합운동장]
+* [https://www.gc.go.kr/portal/contents.do?mId=1405020000 김천시청 - 김천종합운동장]
+* [https://web.archive.org/web/20160406073004/http://gimcheon.go.kr/administration/page.htm?mnu_siteid=inno&mnu_uid=2625& 김천시청 - 김천종합운동장 (구 웹사이트)]
+* [http://www.grandculture.net/ko/Contents?dataType=99&contents_id=GC03201330 한국향토문화전자대전 - 김천종합운동장]{{깨진 링크|url=http://www.grandculture.net/ko/Contents?dataType=99&contents_id=GC03201330 }}
+* [http://www.doopedia.co.kr/doopedia/master/master.do?_method=view&MAS_IDX=101013000822881 두피디아 - 김천종합운동장]
+* [https://terms.naver.com/entry.nhn?docId=2590292&cid=51933&categoryId=54394 네이버 지식백과 - 김천종합운동장 (한국향토문화전자대전)]
+* [https://terms.naver.com/entry.nhn?docId=1246533&cid=40942&categoryId=37713 네이버 지식백과 - 김천종합운동장 (두피디아)]
+
+{{김천 상무 FC}}
+{{K리그 경기장}}
+{{위키데이터 속성 추적}}
+
+[[분류:2000년 설립]]
+[[분류:2000년 완공된 스포츠 시설]]
+[[분류:김천시의 건축물]]
+[[분류:김천시의 스포츠]]
+[[분류:대한민국의 육상 경기장]]
+[[분류:대한민국의 축구 경기장]]
+[[분류:김천시의 육상 경기장]]
+[[분류:김천시의 축구 경기장]]

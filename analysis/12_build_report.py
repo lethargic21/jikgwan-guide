@@ -5,6 +5,7 @@
 """
 import base64
 import html
+import importlib.util
 import subprocess
 from datetime import date
 from pathlib import Path
@@ -16,6 +17,9 @@ TAB = ROOT / "outputs" / "tables"
 FIG = ROOT / "outputs" / "figures"
 OUT = ROOT / "submission" / "참고자료"
 SRC = ROOT / "submission" / "_build"
+_spec = importlib.util.spec_from_file_location("kl_page", Path(__file__).resolve().parent / "16_kleague_report_page.py")
+kl_page = importlib.util.module_from_spec(_spec)
+_spec.loader.exec_module(kl_page)  # 12장(K리그1 확장 검증) 1쪽
 CHROME = [Path(r"C:\Program Files\Google\Chrome\Application\chrome.exe"),
           Path(r"C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe")]
 
@@ -148,6 +152,7 @@ def main():
         ["데이터랩 지역별 분석 › 중심-연관 관광지 지도", "구장 소재 9개 시군구", "2025.9~2026.8", "구장 위상(순위), 웹 코스 후보"],
         ["데이터랩 관광통계 › 국민여행조사", "2025 보고서(분석편) [표 8]", "2025", "숙박·당일 1회 평균 지출(기대효과 산식)"],
         ["KBO 경기별 관중 기록(공개 정리본)", "경기별 날짜·구장·관중·취소", "2023~2026.9", "처치 변수. 2023~2025 시즌 총관중이 공식치와 1명 단위 일치"],
+        ["한국어 위키백과 'K리그1의 경기 결과'(CC BY-SA)", "경기별 날짜·경기장·관중", "2024~2025", "11장 확장 검증(K리그1). 누적 관중을 연맹 발표와 대조"],
         ["한국관광공사 TourAPI(국문 관광정보)", "구장 반경 관광지·음식점·숙박", "2026.9 조회", "웹 코스 실장소 195곳"],
     ], columns=["자료", "단위", "기간", "용도"])
     H.append("<h2>2. 데이터</h2>" + table(data_tbl) +
@@ -208,14 +213,18 @@ def main():
     H.append("<h2>10. 처방의 시제품과 방법 공개</h2>"
              "<ul><li><b>구장별 진단표 공개</b>: 웹 상단에 9개 구장의 경기일 효과·경기당 외지인·다음날 잔존·타 시도 관중 비중·유형·처방을 지자체·구단 담당자용으로 싣는다.</li>"
              "<li><b>원정팬 체류 가이드</b>: 진단의 처방('당일치기를 하룻밤으로')을 옮긴 시제품. 9개 구장 × 경기 전(데이터랩 연관·인기 관광지 + TourAPI) · 경기 후 · 하룻밤(데이터랩 인기 숙소 + TourAPI 숙박), 장소 285곳. 미확인 영업시간·가격은 싣지 않는다.</li>"
-             "<li><b>코드와 방법 공개(GitHub)</b>: 경기 일정 표만 바꾸면 K리그·농구·배구, 지역 축제·공연에 같은 측정을 그대로 재사용할 수 있다.</li></ul>")
-    H.append(img(OUT / "04_웹화면" / "04_웹화면_모바일_진단.png", "30%", "그림 6. 웹 상단의 구장별 진단(모바일)"))
+             "<li><b>코드와 방법 공개(GitHub)</b>: 경기 일정 표만 바꾸면 K리그·농구·배구, 지역 축제·공연에 같은 측정을 그대로 재사용할 수 있다. 11장에서 K리그1에 실제로 적용해 확인했다.</li></ul>")
+    H.append(img(OUT / "04_웹화면" / "04_웹화면_모바일_진단.png", "26%", "그림 6. 웹 상단의 구장별 진단(모바일)"))
 
-    H.append("""<h2>11. 한계와 재현</h2>
+    H.append(kl_page.section_html())  # 11. 확장 검증 — K리그1 (새 쪽에서 시작하는 1쪽)
+    css += kl_page.KL_CSS
+
+    H.append("""<h2 class="pb">12. 한계와 재현</h2>
 <ul><li>이동통신 '방문자'는 일상생활권 밖 체류자 기준이며 관광 목적을 알 수 없다. 시군구 '외지인'에는 같은 시 다른 구 주민이 포함된다.</li>
 <li>포스트시즌 경기일 정보가 없어 해당 기간은 제외했다. 방문자 데이터는 2026.8.29까지라 2026 가을야구는 관측하지 못했다.</li>
 <li>광역 분석은 기저 규모가 커 대전·부산만 식별됐다. 기대효과는 가정(타 시도 관중 비중 전 구장 적용, 숙박 전환 +1%p)에 의존한다.</li>
 <li>재현: <code>.venv/Scripts/python analysis/run_all.py</code> 한 번으로 수집(캐시)·분석·그림·웹 데이터까지 생성. 데이터랩 수동 자료는 data/raw/datalab/에 두고 00_organize_datalab.py로 정리.</li></ul>""")
+
 
     SRC.mkdir(parents=True, exist_ok=True)
     doc = f"<!doctype html><html lang='ko'><head><meta charset='utf-8'><title>분석 보고서</title><style>{css}</style></head><body>{''.join(H)}</body></html>"

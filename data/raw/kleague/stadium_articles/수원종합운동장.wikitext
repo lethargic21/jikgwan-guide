@@ -1,0 +1,340 @@
+{{경기장 정보
+|이름 = 수원종합운동장
+|전체이름 = 수원종합운동장 주경기장
+|원어이름 = {{lang|en|Suwon Sports Complex}}
+|이전이름 = 
+|별칭 = 캐슬파크 (Castle Park)
+|사진 = 2009-01-24 - Suwon Civil Stadium from Royal Palace.jpg
+|사진설명 = 
+|위치 = [[대한민국]] [[경기도]] [[수원시]] [[장안구]] 경수대로 893 ([[조원동 (수원시)|조원동]] 775번지)
+|좌표 = {{좌표|37.297746|N|127.011315|E|format=dms|display=inline, title}}
+|기공 = 
+|건설기간 = 
+|개장 = 1971년 10월<ref name="전국공공체육시설현황">{{서적 인용|url=http://www.mcst.go.kr/kor/s_policy/dept/deptView.jsp?pSeq=1821&pDataCD=0417000000|제목=2023 전국 공공체육시설 현황 (2022년 12월말 기준)|출판사=대한민국 문화체육관광부|연도=2024}}</ref><ref name="두피디아">{{백과사전 인용|url=http://www.doopedia.co.kr/doopedia/master/master.do?_method=view&MAS_IDX=101013000775252|제목=수원종합운동장|백과사전=두피디아|출판사=두산}}</ref><ref name="수원도시공사">{{웹 인용|url=https://www.suwonudc.co.kr/suwonsc/mainPage.do|제목=수원종합운동장|출판사=수원도시공사}}</ref>
+|보수 = 1983년~1986년 9월 (증·개축)<ref name="수원도시공사"/><br />2007년 (개·보수)<br />2011년 (개·보수)
+|확장 = 
+|폐장 = 
+|철거 = 
+|소유 = [[수원시청]]<ref name="전국공공체육시설현황"/>
+|운영 = [[수원도시공사]]<ref name="전국공공체육시설현황"/><ref name="수원도시공사"/>
+|설계 = 
+|건설 = 
+|도급 = 
+|건설비용 = 83억 6천 6백만 [[대한민국 원|원]] (1986년 증·개축)<ref name="전국공공체육시설현황"/>
+|표면 = 천연잔디 (필드), 우레탄 (트랙)
+|규모 = 필드: 102 × 68 [[미터|m]]<br />트랙: 400 [[미터|m]] × 8 레인
+|좌석 = 11,808석<ref name="전국공공체육시설현황"/><ref name="수원도시공사"/>
+|수용인원 = 30,000명<ref name="전국공공체육시설현황"/><ref name="수원도시공사"/>
+|개최대회 = [[1989년 전국체육대회]]<br />[[1996년 AFC 청소년 축구 선수권 대회]]<br />[[2007년 FIFA U-17 월드컵]]<br />[[2008년 피스퀸컵]]<br />[[2010년 피스퀸컵]]<br />[[K리그 승강 플레이오프]]<br />[[K리그1]] (2016년~2025년)<br />[[K리그2]] (2013년~현재)<br />[[내셔널리그 (대한민국)|내셔널리그]] (2003년~2012년)<br />[[WK리그]] (2015년~현재)
+|홈경기장 = [[제주 SK FC|유공 코끼리 축구단]] (1987년~1990년)<br />[[수원 삼성 블루윙즈|수원 삼성 블루윙즈 FC]] (1996년~2001년)<br />[[수원 FC]] (2003년~현재)<br />[[수원 FC 위민|수원 FCW]] (2015년~현재)
+}}
+
+'''수원종합운동장'''(水原綜合運動場, {{lang|en|Suwon Sports Complex}})은 [[대한민국]] [[경기도]] [[수원시]]에 있는 스포츠 시설이다. 1971년 10월에 개장한 주경기장은 천연잔디 필드와 우레탄 트랙이 갖춰진 경기장이다. 주경기장 외 야구장, 실내체육관, 인조잔디구장 등의 부속 시설이 설치되어 있는 [[종합운동장|스포츠 경기장 종합 단지]]다. 수원종합운동장이란 용어가 [[종합운동장|스포츠 경기장 종합 단지]]의 의미와 주경기장을 바로 지칭하는 의미로 혼용되어 사용되고 있다.
+
+== 시설 ==
+=== 주경기장 ===
+'''주경기장'''은 관중석 11,808석 규모의 [[다목적경기장]]으로 [[대한육상연맹]] 공인 2종 경기장이며, 평소엔 축구 경기장으로 주로 사용된다. 현재 [[K리그]] [[수원 FC]]와 [[WK리그]] [[수원시시설관리공단 여자 축구단|수원시설관리공단]]이 홈구장으로 사용하고 있으며, [[K리그 클래식]] [[수원 삼성 블루윙즈]]가 2002년 [[수원월드컵경기장]]으로 완전히 옮기기 전까지 홈구장으로 사용하였으며 많은 우승컵을 들어올렸던 곳이다. ([[수원월드컵경기장]]은 2001년 개장하여 2001년과 2002년은 두 경기장 공동 사용) 2007년에는 [[2007년 FIFA U-17 월드컵|FIFA U-17 월드컵]]이 열렸으며, [[피스컵]]을 개최하기도 하였는데 [[FC 서울|LG 치타스]]가 [[울산 HD FC|현대 호랑이]]와 1995년 4월 5일<ref>{{뉴스 인용|제목=김현석 또2골"슛폭발"|url=https://newslibrary.naver.com/viewer/index.nhn?articleId=1995040600329117001&editNo=20&printCount=1&publishDate=1995-04-06&officeId=00032&pageNo=17&printNo=15389&publishType=00010|출판사=경향신문|저자=이기환|날짜=1995-04-06|확인날짜=2019-04-18}}</ref>, 8월 30일<ref>{{뉴스 인용|제목=프로축구 盧(노)상래 해트트릭|url=https://newslibrary.naver.com/viewer/index.nhn?articleId=1995083100209127005&editNo=45&printCount=1&publishDate=1995-08-31&officeId=00020&pageNo=27&printNo=22955&publishType=00010|출판사=동아일보|저자=|날짜=1995-08-31|확인날짜=2019-04-18
+}}</ref> 홈경기를 개최했다.
+2011년 제57회 [[경기도 체육대회]]를 앞두고는 주경기장 관람석 11,800석을 접이식 의자로 교체하고 조명탑, 전기 및 음향 시설을 교체하는 등 대대적인 보수를 실시<ref>{{뉴스 인용 |url=http://ggjapp.com/news/articleView.html?idxno=1871 |제목=수원 종합운동장 새단장 "道, 체전 이상무" |출판사=경기중항신문 |날짜=2011-05-02}}</ref> 했으며, 2012년 4월에는 대한민국에선 두 번째로 육상 트랙을 [[대구스타디움]]과 같은 푸른색 [[몬도 트랙]]으로 교체하였다.<ref>{{뉴스 인용 |url=http://www.kyeonggi.com/news/articleView.html?idxno=569683 |제목=수원종합운동장 주경기장 새단장… 참가자들 호평 |출판사=경기일보 |날짜=2012-04-16}}</ref>
+
+보조경기장인 인조잔디구장은 102 × 72 [[미터|m]] 규모의 축구경기 시설로서, 600 개의 좌석을 갖추고 있다.
+
+한편, 주말 2연전 제도가<ref>{{뉴스 인용|제목=油公(유공),럭키금성에 설욕|url=https://newslibrary.naver.com/viewer/index.nhn?articleId=1987033000209209001&editNo=2&printCount=1&publishDate=1987-03-30&officeId=00020&pageNo=9&printNo=20150&publishType=00020|출판사=동아일보|저자=|날짜=1987-03-30|확인날짜=2020-01-15
+}}</ref> 시행된 87년 당시 [[제주 SK FC|유공 코끼리]]가 제2홈구장으로 사용하기도 했으며 3월 28일과 29일 [[FC 서울|럭키금성 황소]]와 개막 2연전을 치뤘는데 당시 유공 주전 골키퍼 이문영은 개막전 경기에서 들것에 실려나갔으나 다음 날 1-0 무실점 승리를 거두었고<ref>{{뉴스 인용|제목= 油公(유공),럭키금성에 설욕|url=https://newslibrary.naver.com/viewer/index.nhn?articleId=1987033000209209001&editNo=2&printCount=1&publishDate=1987-03-30&officeId=00020&pageNo=9&printNo=20150&publishType=00020|출판사=동아일보|저자=|날짜=1987-03-30|확인날짜=2020-01-15
+}}</ref> 그 이후 9월 19일과 20일 이 장소(수원)에서 벌어진 같은 팀(럭키금성)과의 2연전에서 연속 무실점(19일 3-0 승, 20일 0-0 무)을 기록했는데 주말 2연전 제도는 선수 부상 등의<ref>{{뉴스 인용|제목=프로축구선수들 週末(주말)2연전'울며 겨자먹기'|url=https://newslibrary.naver.com/viewer/index.nhn?articleId=1987050700209205012&editNo=2&printCount=1&publishDate=1987-05-07&officeId=00020&pageNo=5&printNo=20181&publishType=00020|출판사=동아일보|저자=이종세|날짜=1987-05-07|확인날짜=2020-01-15
+}}</ref> 문제점 탓인지 1년 만에 폐지됐으며 프로야구의 사례를 본따서 전년도에 홈팀이 흰색 유니폼, 원정팀이 유색 유니폼을 입어야 하는 규정이<ref>{{뉴스 인용|제목=흰색 유니폼 실종…누가 홈팀일까|url=https://sports.news.naver.com/general/news/read.nhn?oid=028&aid=0002104300|출판사=한겨레신문|저자=김양희|날짜=2011-07-29|확인날짜=2020-01-15}}</ref> 시행된 것은 다음 해부터 홈팀이 유색, 원정팀이 흰색 유니폼을 입는 것으로 변경됐다.
+
+2014년에는 한국프로축구연맹 규정을 충족하기 위해 한국형 잔디를 사계절 잔디로 교체하는 공사를 했다.
+
+2016년부터 N석에 가변석을 설치했다.
+
+2021년 여름부터 연말까지 한지형 천연 잔디인 켄터키 블루그래스 식재를 진행했다.
+
+=== 야구장 ===
+{{본문|수원케이티위즈파크}}
+[[수원케이티위즈파크]]는 종합운동장 내에 위치하고 있으며, 펜스 거리는 좌우 95 미터, 중앙이 120 미터이며 천연 잔디가 깔려 있다. [[KBO 리그|프로야구]] [[현대 유니콘스]]가 2007년까지 홈 구장으로 사용하였다.
+
+1989년 신축 당시에는 좌우 100 미터, 중앙 125 미터로 국내 최대 규모였으나 당시 수원을 연고지로 한 [[현대 유니콘스]] 감독 [[김재박]]의 요청으로 5미터씩 축소하여 보조 펜스를 설치하였다. 펜스의 높이는 2.5 미터다. 최대 관중 수용 인원은 2만 명이다. 이는 [[서울종합운동장 야구장|잠실야구장]], [[사직야구장]], [[인천SSG랜더스필드|문학야구장]] 다음의 수준으로 [[마산종합운동장 야구장|마산야구장]]과 더불어 대한민국에서 4번째로 큰 규모의 야구장이다.
+
+2015년부터 [[kt 위즈]]의 홈구장으로 사용되고 있다.
+
+=== 실내체육관 ===
+{{참고|수원실내체육관}}
+[[수원실내체육관]]은 종합운동장 내에 위치하고 있으며, 최대 9천 명을 수용할 수 있는 실내체육관이다. 1984년 10월 신축되었으며, [[1988년 하계 올림픽]] 당시 [[핸드볼]] 경기장으로 사용되었다.
+
+현재 [[V-리그 (대한민국)|V-리그]] 남자부 [[수원 한국전력 빅스톰]]과 여자부 [[수원 현대건설 배구단]]의 홈구장으로 사용하고 있다.
+
+== 기록 ==
+=== 1983년 대통령배 국제축구대회 ===
+{| class="wikitable" style="text-align:center;"
+|-
+!날짜
+!팀 1
+!스코어
+!팀 2
+!라운드
+|-
+| rowspan="3" |6월 6일||style="text-align:right;"|{{국기그림|이탈리아}} '''[[제노아 CFC]]'''||'''3''' - 0||style="text-align:left;"|{{fb|IDN}}|| rowspan="3" |A조
+|-
+| style="text-align:right;" |{{fb|USA}}||1 - 1||style="text-align:left;"|{{fb|NGR}}
+|-
+| style="text-align:right;" |'''{{fb|KOR}}'''||'''4''' - 0||style="text-align:left;"|{{fb|THA}}
+|}
+
+=== 1987년 대통령배 국제축구대회 ===
+{| class="wikitable" style="text-align:center;"
+|-
+!날짜
+!팀 1
+!스코어
+!팀 2
+!라운드
+|-
+| rowspan="3" |6월 15일||style="text-align:right;"|{{fb|KOR|이름=대한민국 B팀}}||0 - '''5'''||style="text-align:left;"|'''{{fb|AUS}}'''|| rowspan="3" |B조
+|-
+| style="text-align:right;" |{{국기그림|아일랜드}} [[섐록 로버스 FC]]||0 - '''1'''||style="text-align:left;"|'''{{fb|MAR}}'''
+|-
+| style="text-align:right;" |{{fb|CHL|이름=칠레 B팀}}||1 - 1||style="text-align:left;"|{{국기그림|네덜란드}} [[포르튀나 시타르트]]
+|}
+
+=== 1988년 대통령배 국제축구대회 ===
+{| class="wikitable" style="text-align:center;"
+|-
+!날짜
+!팀 1
+!스코어
+!팀 2
+!라운드
+|-
+| rowspan="2" |6월 19일||style="text-align:right;"|{{국기그림|멕시코}} [[클루브 아틀라스]]||1 - 1||style="text-align:left;"|{{국기그림|이탈리아}} [[세리에 C|세리에 C U-21 선발팀]]|| rowspan="2" |A조
+|-
+| style="text-align:right;" |'''{{fb|KOR|이름=대한민국 A팀}}||'''4''' - 0||style="text-align:left;"|{{fb|ZAM|이름=잠비아 올림픽 대표팀}}
+|}
+
+=== 1991년 대통령배 국제축구대회 ===
+{| class="wikitable" style="text-align:center;"
+|-
+!날짜
+!팀 1
+!스코어
+!팀 2
+!라운드
+|-
+| rowspan="2" |6월 8일||style="text-align:right;"|'''{{fb|AUS}}'''||'''2''' - 1||style="text-align:left;"|{{fb|URS|이름=소련 올림픽 대표팀}}|| rowspan="2" |B조
+|-
+| style="text-align:right;" |'''{{fb|KOR|이름=대한민국 백호}}'''||'''2''' - 1||style="text-align:left;"|{{fb|USA}}
+|}
+
+=== 1993년 대통령배 국제축구대회 ===
+{| class="wikitable" style="text-align:center;"
+|-
+!날짜
+!팀 1
+!스코어
+!팀 2
+!라운드
+|-
+| rowspan="2" |6월 22일||style="text-align:right;"|{{fb|CZE|이름=체코 선발}}||1 - 1||style="text-align:left;"|{{fb|ROU|이름=루마니아 선발}}|| rowspan="2" |B조
+|-
+| style="text-align:right;" |{{fb|KOR|이름=대한민국 상비군}}||2 - 2||style="text-align:left;"|{{fb|AUS|이름=오스트레일리아 B}}
+|}
+
+=== 1995년 코리아컵 국제축구대회 ===
+{| class="wikitable" style="text-align:center;"
+|-
+!날짜
+!팀 1
+!스코어
+!팀 2
+!라운드
+|-
+| rowspan="2" |6월 5일||style="text-align:right;"|'''{{fb|BRA|이름=리우 선발}}'''||'''2''' - 1||style="text-align:left;"|{{국기그림|스코틀랜드}} [[킬마녹 FC]]|| rowspan="2" |A조
+|-
+| style="text-align:right;" |'''{{fb|KOR}}'''||'''1''' - 0||style="text-align:left;"|{{fb|CRI}}
+|}
+
+=== 1996년 AFC 청소년 축구 선수권 대회 ===
+{| class="wikitable" style="text-align:center;"
+|-
+!날짜
+!팀 1
+!스코어
+!팀 2
+!라운드
+|-
+| rowspan="2" |10월 18일||style="text-align:right;"|{{fb|IND}}||1 - 1||style="text-align:left;"|{{fb|QAT}}|| rowspan="10" |B조
+|-
+| style="text-align:right;" |{{fb|SYR}}||1 - '''3'''||style="text-align:left;"|'''{{fb|JPN}}'''
+|-
+| rowspan="2" |10월 20일||style="text-align:right;"|'''{{fb|CHN}}'''||'''2''' - 1||style="text-align:left;"|{{fb|JPN}}
+|-
+| style="text-align:right;" |'''{{fb|SYR}}'''||'''2''' - 0||style="text-align:left;"|{{fb|QAT}}
+|-
+| rowspan="2" |10월 22일||style="text-align:right;"|'''{{fb|JPN}}'''||'''4''' - 0||style="text-align:left;"|{{fb|QAT}}
+|-
+| style="text-align:right;" |'''{{fb|CHN}}'''||'''2''' - 1||style="text-align:left;"|{{fb|IND}}
+|-
+| rowspan="2" |10월 24일||style="text-align:right;"|'''{{fb|SYR}}'''||'''1''' - 0||style="text-align:left;"|{{fb|IND}}
+|-
+| style="text-align:right;" |'''{{fb|CHN}}'''||'''5''' - 2||style="text-align:left;"|{{fb|QAT}}
+|-
+| rowspan="2" |10월 26일||style="text-align:right;"|'''{{fb|CHN}}'''||'''2''' - 1||style="text-align:left;"|{{fb|SYR}}
+|-
+| style="text-align:right;" |'''{{fb|JPN}}'''||'''2''' - 0||style="text-align:left;"|{{fb|IND}}
+|-
+| rowspan="2" |10월 29일||style="text-align:right;"|'''{{fb|KOR}}'''||'''1''' - 0||style="text-align:left;"|{{fb|JPN}}|| rowspan="2" |준결승
+|-
+| style="text-align:right;" |'''{{fb|CHN}}'''||'''5''' - 1||style="text-align:left;"|{{fb|UAE}}
+|}
+
+=== 1997년 코리아컵 국제축구대회 ===
+{| class="wikitable" style="text-align:center;"
+|-
+!날짜
+!팀 1
+!스코어
+!팀 2
+!라운드
+|-
+| rowspan="2" |6월 14일||style="text-align:right;"|'''{{fb|KOR}}'''||'''3''' - 0||style="text-align:left;"|{{fb|GHA}}|| rowspan="2" |2차전
+|-
+| style="text-align:right;" |{{국기그림|세르비아몬테네그로}} [[유고슬라비아]]||0 - 0||style="text-align:left;"|{{fb|EGY}}
+|}
+
+=== 2000-01년 아시안 클럽 챔피언십 ===
+{| class="wikitable" style="text-align:center;"
+|-
+!날짜
+!팀 1
+!스코어
+!팀 2
+!라운드
+|-
+| rowspan="2" |[[2001년]] [[5월 24일]]||style="text-align:right;"|{{국기그림|JPN}} '''[[주빌로 이와타]]''' ||'''1''' - 0<br />([[연장전]])||style="text-align:left;"|{{국기그림|KAZ}} [[FC 이르티시]]|| rowspan="2" |준결승
+|-
+| style="text-align:right;"|{{국기그림|IRN}} [[페르세폴리스 FC]]||1 - '''2'''||style="text-align:left;"|{{국기그림|KOR}} '''[[수원 삼성 블루윙즈]]''' 
+|-
+| rowspan="2" |[[2001년]] [[5월 26일]]||style="text-align:right;"|{{국기그림|IRN}} '''[[페르세폴리스 FC]]'''||'''2''' - 0||style="text-align:left;"|{{국기그림|KAZ}} [[FC 이르티시]]||3-4위전
+|-
+|style="text-align:right;"|{{국기그림|KOR}} '''[[수원 삼성 블루윙즈]]''' ||'''1''' - 0||style="text-align:left;"|{{국기그림|JPN}} [[주빌로 이와타]] ||결승
+|}
+
+=== 2007년 FIFA U-17 월드컵 ===
+{| class="wikitable" style="text-align:center;"
+|-
+!날짜
+!팀 1
+!스코어
+!팀 2
+!라운드
+|-
+| rowspan="2" |8월 18일||style="text-align:right;"|{{fb|CRC}}||1 - 1||style="text-align:left;"|{{fb|TOG|1949}}|| rowspan="4" |A조
+|-
+| style="text-align:right;" |{{fb|KOR}}||0 - '''1'''||style="text-align:left;"|'''{{fb|PER|1949}}'''
+|-
+| rowspan="2" |8월 21일||style="text-align:right;"|{{fb|TOG}}||0 - 0||style="text-align:left;"|{{fb|PER|1949}}
+|-
+| style="text-align:right;" |'''{{fb|CRC}}'''||'''2''' - 0||style="text-align:left;"|{{fb|KOR|1949}}
+|-
+|8월 26일||style="text-align:right;"|'''{{fb|TUN}}'''||'''1''' - 0||style="text-align:left;"|{{fb|TJK|1949}}||E조
+|-
+|8월 29일||style="text-align:right;"|'''{{fb|PER}}'''||'''1(5)''' - 1(4)||style="text-align:left;"|{{fb|TJK|1949}}||16강
+|-
+|9월 6일||style="text-align:right;"|'''{{fb|NGR}}'''||'''3''' - 1||style="text-align:left;"|{{fb|GER|1949}}||준결승
+|}
+
+=== 2008년 피스퀸컵 ===
+{| class="wikitable" style="text-align:center;"
+|-
+!날짜
+!팀 1
+!스코어
+!팀 2
+!라운드
+|-
+| rowspan="2" |6월 15일||style="text-align:right;"|'''{{fb|USA}}'''||'''2''' - 1||style="text-align:left;"|{{fb|AUS}}|| rowspan="6" |B조
+|-
+| style="text-align:right;" |'''{{fb|BRA}}'''||'''2''' - 1||style="text-align:left;"|{{fb|ITA}}
+|-
+| rowspan="2" |6월 17일||style="text-align:right;"|'''{{fb|USA}}'''||'''1''' - 0||style="text-align:left;"|{{fb|BRA}}
+|-
+| style="text-align:right;" |{{fb|ITA}}||0 - '''3'''||style="text-align:left;"|'''{{fb|AUS}}'''
+|-
+| rowspan="2" |6월 19일||style="text-align:right;"|'''{{fb|AUS}}'''||'''1''' - 0||style="text-align:left;"|{{fb|BRA}}
+|-
+| style="text-align:right;" |{{fb|ITA}}||0 - '''2'''||style="text-align:left;"|'''{{fb|USA}}'''
+|}
+
+=== 2010년 피스퀸컵 ===
+{| class="wikitable" style="text-align:center;"
+|-
+!날짜
+!팀 1
+!스코어
+!팀 2
+!라운드
+|-
+| rowspan="2" |10월 19일||style="text-align:right;"|{{fb|ENG}}||0 - 0||style="text-align:left;"|{{fb|KOR}}||A조
+|-
+| style="text-align:right;" |{{fb|TPE}}||0 - '''1'''||style="text-align:left;"|'''{{fb|AUS}}'''||B조
+|-
+| rowspan="2" |10월 21일||style="text-align:right;"|{{fb|NZL}}||0 - 0||style="text-align:left;"|{{fb|ENG}}||A조
+|-
+| style="text-align:right;" |'''{{fb|MEX}}'''||'''1''' - 0||style="text-align:left;"|{{fb|TPE}}||B조
+|}
+
+== 사진 ==
+<gallery>
+파일:Suwon Stadium.jpg|주경기장
+파일:Suwon Gymnasium indoor.JPG|실내체육관 내부
+파일:V-league2012-13 KEPCOvsSamsung.JPG|수원 KEPCO 빅스톰의 [[V-리그 (대한민국)|V-리그]] 경기
+파일:Hdunistadiumpan.jpg|야구장
+파일:2009-01-24 - Suwon Civil Stadium from Royal Palace.jpg|
+파일:2009-01-24 - Suwon Civil Baseball Stadium from Royal Palace.JPG|
+파일:2009-01-24 - Suwon Civil Stadium from Royal Palace.JPG|
+파일:수원종합운동장 가변석.jpg|수원종합운동장 내 가변석
+</gallery>
+
+== 각주 ==
+<references/>
+
+== 참고 문헌 ==
+{{참고 자료 시작}}
+* {{백과사전 인용|url=http://www.doopedia.co.kr/doopedia/master/master.do?_method=view&MAS_IDX=101013000775252|제목=수원종합운동장|백과사전=두피디아|출판사=두산}}
+* {{서적 인용|url=https://www.mcst.go.kr/kor/s_policy/dept/deptView.jsp?pSeq=1227&pDataCD=0408010000&pType=|제목=전국 공공체육 시설 현황 (2017년말 기준)|출판사=대한민국 문화체육관광부|연도=2019}}
+* {{서적 인용|url=https://www.mcst.go.kr/kor/s_policy/dept/deptView.jsp?pSeq=1377&pDataCD=0417000000|제목=2019년 전국 공공체육시설 현황 (2018년말 기준)|출판사=대한민국 문화체육관광부|연도=2020}}
+* {{서적 인용|url=http://www.mcst.go.kr/kor/s_policy/dept/deptView.jsp?pSeq=1451&pDataCD=0417000000|제목=2020년 전국 공공체육시설 현황 (2019년말 기준)|출판사=대한민국 문화체육관광부|연도=2021}}
+* {{서적 인용|url=http://www.mcst.go.kr/kor/s_policy/dept/deptView.jsp?pSeq=1692&pDataCD=0417000000|제목=2022년 전국 공공체육시설 현황 (2021년말 기준)|출판사=대한민국 문화체육관광부|연도=2023}}
+* {{서적 인용|url=http://www.mcst.go.kr/kor/s_policy/dept/deptView.jsp?pSeq=1821&pDataCD=0417000000|제목=2023 전국 공공체육시설 현황 (2022년 12월말 기준)|출판사=대한민국 문화체육관광부|연도=2024}}
+{{참고 자료 끝}}
+
+== 같이 보기 ==
+* [[수원KT위즈파크]]
+* [[수원실내체육관]]
+* [[수원 FC]]
+
+== 외부 링크 ==
+* [https://www.suwonudc.co.kr/suwonsc/mainPage.do 수원종합운동장 공식 웹사이트]
+* [http://suwonfc.com/?p=21 수원 FC - 수원종합운동장] {{웹아카이브|url=https://web.archive.org/web/20210122122111/http://suwonfc.com/?p=21}}
+* [http://www.doopedia.co.kr/doopedia/master/master.do?_method=view&MAS_IDX=101013000775252 두피디아 - 수원종합운동장]
+* [https://terms.naver.com/entry.nhn?docId=1203360&cid=40942&categoryId=33082 네이버 지식백과 - 수원종합운동장]
+
+{{K리그 경기장}}
+{{2007년 FIFA U-17 월드컵 경기장}}
+{{수원 FC}}
+{{수원도시공사 여자 축구단}}
+{{위키데이터 속성 추적}}
+
+[[분류:1971년 설립]]
+[[분류:1971년 완공된 스포츠 시설]]
+[[분류:수원시의 건축물]]
+[[분류:수원시의 스포츠]]
+[[분류:대한민국의 육상 경기장]]
+[[분류:대한민국의 축구 경기장]]
+[[분류:수원시의 육상 경기장]]
+[[분류:수원시의 축구 경기장]]
+[[분류:수원 FC]]
+[[분류:수원 삼성 블루윙즈]]
+[[분류:제주 SK FC]]
+[[분류:수원 FC 위민]]
+[[분류:2007년 FIFA U-17 월드컵 경기장]]
