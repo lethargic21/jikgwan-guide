@@ -68,4 +68,6 @@
 ## 6. 배포
 - [x] 저장소 생성·푸시, GitHub Pages 배포 완료 — https://lethargic21.github.io/jikgwan-guide/ (저장소 https://github.com/lethargic21/jikgwan-guide)
 - [x] 배포 주소로 og:url·og:image, 푸터 저장소 링크, 서식4 3)항 주소 채우기
-- [ ] GoatCounter 코드 받으면 `web/index.html` 주석 풀고 재배포
+- [x] GoatCounter 연결·재배포 (2026-09-29 11:48 KST, 사이트 jikgwan) — 공개 URL에서 진단표·구장 탭·지도 링크·이벤트 요청(tab/daegu, map/daegu/pre_datalab) 확인
+- [ ] 9/30 10:00 지표 캡처 → 서식4 계량성과에 "[실측] (공개 약 22시간: 9/29 11:48~9/30 10:00) 방문자 N명, 구장 탭 N회, 지도 클릭 N회" 추가. 성과분야는 '전략수립 및 기획' 유지
+  - 확인용으로 Claude가 만든 테스트 이벤트 2건(9/29 11:5x, tab/daegu·map/daegu/pre_datalab)은 빼고 적는다
