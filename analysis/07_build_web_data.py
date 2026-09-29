@@ -41,6 +41,8 @@ def main():
     share = pd.read_csv(TAB / "gameday_outsider_share_of_crowd.csv").set_index("stadium")
     pooled = pd.read_csv(TAB / "gameday_effect_pooled.csv")
     pg = pooled[(pooled.spec == "pooled") & (pooled["var"] == "game")].iloc[0]
+    stay_game = pooled[(pooled.spec == "stay") & (pooled["var"] == "game")].pct.iloc[0]
+    stay_post = pooled[(pooled.spec == "stay") & (pooled["var"] == "post_only")].pct.iloc[0]
     sts = pd.read_csv(PROC / "tour_stadiums.csv").set_index("stadium")
     pl = pd.read_csv(PROC / "tour_places.csv").fillna("")
     pl = pl[~pl.title.str.match(EVENT_TITLE)].drop_duplicates(["stadium", "contentid"])
@@ -71,6 +73,10 @@ def main():
             post=[place(r) for r in post.itertuples()],
             stay=[place(r) for r in stay.itertuples()],
         ))
+    # 구장별 진단표 (analysis/13_diagnosis.py)
+    dg = pd.read_csv(TAB / "stadium_diagnosis.csv")
+    ids = {m["effect_key"].replace("(한밭·신구장)", ""): m["id"] for m in META.values()}
+    diag = [dict(r._asdict(), id=ids[r.stadium]) for r in dg.itertuples(index=False)]
     # 정규 9개 구장 전체: 추가 외지인 합계 ÷ 관중 합계 (구장별 경기일 수 가중)
     main_eff = eff[eff.secondary == 0]
     sh = share.join(main_eff.n_game_days, how="inner")
@@ -80,9 +86,13 @@ def main():
         generated=date.today().isoformat(),
         summary=dict(pct=round(pg.pct, 1), lo=round(pg.pct_lo, 1), hi=round(pg.pct_hi, 1),
                      share_of_crowd=round(100 * overall_share),
+                     stay_share=round(100 * stay_post / stay_game, 1),  # 연전 끝난 다음날까지 남는 비율(%)
+                     extra_per_game=int(round((sh.extra_outsiders_per_game_point * sh.n_game_days).sum()
+                                              / sh.n_game_days.sum(), -2)),
                      game_days=int(eff[eff.secondary == 0].n_game_days.sum()),
                      period="2023.1~2026.8"),
         stadiums=stadiums,
+        diagnosis=diag,
     )
     OUT.mkdir(parents=True, exist_ok=True)
     js = "// 자동 생성: analysis/07_build_web_data.py — 직접 고치지 말 것\nwindow.GUIDE_DATA = " + \

@@ -3,41 +3,77 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
-  <title>가을야구 원정 직관 가이드 — 9개 구장 경기 전·후 코스</title>
-  <meta name="description" content="홈경기날 구장 동네 외지인 방문은 평균 +7.3%. 한국관광 데이터랩·TourAPI 데이터로 고른 9개 구장 주변 경기 전 코스, 경기 후 한 끼, 숙소 권역.">
-  <meta name="theme-color" content="#f7f6f3" media="(prefers-color-scheme: light)">
-  <meta name="theme-color" content="#121211" media="(prefers-color-scheme: dark)">
+  <title>홈경기일 관광 효과 진단 — 9개 구장 · 가을야구 원정 체류 가이드</title>
+  <meta name="description" content="한국관광 데이터랩으로 측정한 프로야구 홈경기일의 관광 효과: 구장이 있는 시군구 외지인 +7.3%(경기당 약 1만 700명), 다음날엔 거의 남지 않음. 9개 구장 진단과 원정팬 체류 가이드.">
+  <meta name="theme-color" content="#16120e">
+  <meta name="color-scheme" content="dark">
   <!-- 공유 미리보기 -->
   <meta property="og:type" content="website">
   <meta property="og:url" content="https://lethargic21.github.io/jikgwan-guide/">
   <link rel="canonical" href="https://lethargic21.github.io/jikgwan-guide/">
   <meta property="og:locale" content="ko_KR">
-  <meta property="og:title" content="가을야구 원정 직관 가이드">
-  <meta property="og:description" content="홈경기날 구장 동네 외지인 방문 +7.3%. 9개 구장 경기 전 코스·경기 후 한 끼·숙소 권역을 데이터로 골랐습니다.">
+  <meta property="og:title" content="홈경기일 관광 효과 진단 · 9개 구장">
+  <meta property="og:description" content="홈경기날 구장이 있는 시군구 외지인 +7.3%, 경기당 약 1만 700명 — 다음날엔 거의 남지 않는다. 한국관광 데이터랩으로 측정한 9개 구장 진단과 원정팬 체류 가이드.">
   <meta property="og:image" content="https://lethargic21.github.io/jikgwan-guide/og.png">
   <meta property="og:image:width" content="1200">
   <meta property="og:image:height" content="630">
   <meta name="twitter:card" content="summary_large_image">
-  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'><circle cx='32' cy='32' r='28' fill='%23ffffff' stroke='%232a78d6' stroke-width='4'/><path d='M14 18c8 6 8 22 0 28M50 18c-8 6-8 22 0 28' fill='none' stroke='%23e34948' stroke-width='3'/></svg>">
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'><circle cx='32' cy='32' r='28' fill='%23211a14' stroke='%234cbb6c' stroke-width='4'/><path d='M14 18c8 6 8 22 0 28M50 18c-8 6-8 22 0 28' fill='none' stroke='%23e34948' stroke-width='3'/></svg>">
   <link rel="preconnect" href="https://cdn.jsdelivr.net" crossorigin>
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable-dynamic-subset.min.css">
-  <link rel="stylesheet" href="assets/style.css">
-  <!-- GoatCounter: 사이트 코드를 받으면 CODE를 바꾸고 주석을 푼다 -->
-  <!-- <script data-goatcounter="https://CODE.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script> -->
+  <link rel="stylesheet" href="assets/style.css?v=20260929d">
+  <!-- GoatCounter: 페이지뷰는 자동 집계, 구장 탭·지도 버튼 클릭은 app.js에서 이벤트로 보낸다 (localhost에서는 집계하지 않음) -->
+  <script data-goatcounter="https://jikgwan.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
 </head>
 <body>
-  <a class="skip" href="#stadium-panel">본문으로 건너뛰기</a>
+  <a class="skip" href="#diagnosis">본문으로 건너뛰기</a>
 
   <header class="hero">
     <div class="wrap">
-      <p class="eyebrow">가을야구 원정 직관 가이드</p>
-      <h1>경기만 보고 돌아오기엔<br>아까운 하루</h1>
-      <p class="lede">홈경기가 열리는 날, 구장이 있는 동네의 외지인 방문은 평균
-        <strong class="num" id="hero-pct">+7.3%</strong> 늘어납니다.
-        9개 구장 주변에서 경기 전 한 바퀴, 경기 후 한 끼, 하룻밤 묵을 곳을 골랐습니다.</p>
+      <p class="eyebrow">프로야구 홈경기일 관광 효과 측정 · 9개 구장 진단</p>
+      <h1>경기날 몰려온 외지인,<br>다음날엔 남지 않는다</h1>
+      <p class="lede">홈경기가 열리는 날 구장이 있는 시군구의 외지인 방문은 평균
+        <strong class="num" id="hero-pct">+7.3%</strong>, 경기당 약 <strong class="num" id="hero-extra">1만 700명</strong> 늘어납니다.
+        하지만 경기 전날·다음날에는 변화가 거의 없습니다. 한국관광 데이터랩으로 측정한 9개 구장 진단과, 그 처방으로 만든 원정팬 체류 가이드입니다.</p>
       <p class="source" id="hero-source">한국관광 데이터랩 이동통신 방문자 데이터 × KBO 정규시즌 경기일 분석</p>
+      <p class="hero-actions"><a class="btn-primary" href="#diagnosis">구장별 진단 보기</a><a class="btn-secondary" href="#guide">원정 체류 가이드</a></p>
     </div>
   </header>
+
+  <section class="data" id="diagnosis" aria-labelledby="data-title">
+    <div class="wrap">
+      <p class="section-eyebrow">지자체·구단 담당자용</p>
+      <h2 id="data-title">경기일 진단 — 9개 구장</h2>
+      <p class="data-lede">관중 수만으로는 알 수 없던 것을 쟀습니다. 홈경기날 구장이 있는 시군구에 외지인이 얼마나 더 오고(유입), 다음날까지 남는지(체류)입니다. 막대나 구장 이름을 누르면 그 구장의 가이드로 이동합니다.</p>
+      <div class="data-grid">
+        <div class="card bars-card">
+          <ol class="bars" id="bars" aria-label="구장별 홈경기일 외지인 방문 증가율"></ol>
+          <p class="bars-note">가로선은 95% 신뢰구간. 2023년 1월~2026년 8월 정규시즌, 같은 광역 안의 구장 없는 도시형 시군구와 같은 날 비교.</p>
+        </div>
+        <ul class="card facts">
+          <li><b>경기 당일에만</b> 늘어납니다. 경기 전후 사흘은 변화가 거의 없습니다(±0.3% 이내).</li>
+          <li>연전이 끝난 다음날까지 남는 외지인은 경기일 증가분의 <b id="fact-stay">약 3.6%</b>뿐입니다. 9곳 중 다음날 잔존이 유의한 곳은 대전 한 곳입니다.</li>
+          <li>경기 1회당 늘어나는 외지인은 <b id="fact-extra">관중의 약 3분의 2</b> 수준입니다.</li>
+        </ul>
+      </div>
+      <h3 class="diag-title">구장별 진단표</h3>
+      <div class="card diag-card">
+        <table class="diag">
+          <thead><tr><th scope="col">구장</th><th scope="col">경기일 효과</th><th scope="col">경기당 외지인</th><th scope="col">다음날 잔존</th><th scope="col">타 시도 관중 비중</th><th scope="col">유형</th><th scope="col">처방</th></tr></thead>
+          <tbody id="diag-body"></tbody>
+        </table>
+      </div>
+      <p class="diag-note">경기일 효과: 같은 날 같은 광역의 구장 없는 도시형 시군구 대비(95% 신뢰구간). 다음날 잔존: 홈 연전이 끝난 다음날(경기 없는 날) 외지인 변화. 타 시도 관중 비중: 광역 단위 경기당 타 시·도 유입 ÷ 관중(시군구 기준 '관중 대비 외지인 약 69%'와 다른 지표). 광역 단위 효과가 유의하지 않으면 '측정 불가', 신뢰구간 상한이 100%를 넘으면 '오차가 커서 제외'. 유형: 경기당 외지인이 9개 구장 중앙값(9,220명)보다 많으면 '유입↑', 다음날 잔존이 유의하면 '체류↑'. 처방은 분석 결과에 근거한 제안입니다.</p>
+    </div>
+  </section>
+
+  <section class="guide-intro" id="guide" aria-labelledby="guide-title">
+    <div class="wrap">
+      <p class="section-eyebrow">진단에서 나온 처방의 시제품</p>
+      <h2 id="guide-title">원정팬 체류 가이드</h2>
+      <p class="data-lede">당일치기를 하룻밤으로 바꾸도록, 구장마다 경기 전·경기 후·하룻밤 동선을 데이터랩 연관·인기 관광지와 TourAPI 장소로 묶었습니다.</p>
+    </div>
+  </section>
 
   <section class="postseason" id="postseason" hidden aria-labelledby="ps-title">
     <div class="wrap">
@@ -55,22 +91,9 @@
 
   <main id="stadium-panel" class="wrap panel" role="tabpanel" tabindex="-1" aria-live="polite"></main>
 
-  <section class="data" aria-labelledby="data-title">
-    <div class="wrap">
-      <h2 id="data-title">데이터로 본 직관 여행</h2>
-      <p class="data-lede">홈경기날, 구장이 있는 시군구의 외지인 방문자가 얼마나 늘어나는지 구장별로 쟀습니다. 막대를 누르면 그 구장 코스로 이동합니다.</p>
-      <ol class="bars" id="bars" aria-label="구장별 홈경기일 외지인 방문 증가율"></ol>
-      <p class="bars-note">가로선은 95% 신뢰구간. 2023년 1월~2026년 8월 정규시즌, 같은 광역 안의 구장 없는 도시형 시군구와 같은 날 비교.</p>
-      <ul class="facts">
-        <li><b>경기 당일에만</b> 늘어납니다. 경기 전후 사흘은 변화가 거의 없습니다(±0.3% 이내).</li>
-        <li><b>평일 야간경기도</b> 주말과 비슷하게 사람을 모읍니다.</li>
-        <li>경기 1회당 늘어나는 외지인은 <b id="fact-extra">관중의 약 3분의 2</b> 수준입니다. 이 사람들이 경기만 보고 떠나지 않도록 돕는 것이 이 가이드의 목적입니다.</li>
-      </ul>
-    </div>
-  </section>
-
   <footer class="foot">
     <div class="wrap">
+      <p class="game-set" aria-hidden="true">GAME SET</p>
       <p><b>한국관광 데이터랩·한국관광공사 TourAPI 데이터를 활용한 개인 프로젝트</b>입니다. KBO·구단과 관계없습니다.</p>
       <p>장소 정보: 한국관광 데이터랩 지역별 분석 › 중심-연관 관광지(2025.9~2026.8), 한국관광공사 국문 관광정보 서비스(TourAPI) · 조회일 <span id="gen-date"></span>. 이름·주소·분류·순위·구장 기준 직선거리만 싣습니다. <b>영업시간·휴무·가격은 방문 전 지도 앱에서 꼭 확인하세요.</b></p>
       <p>방문 분석: 한국관광 데이터랩 빅데이터 › 이동통신 › 지역별 방문자수(한국관광공사 공공데이터 API), KBO 경기별 관중 기록(공개 정리본, 2023~2025 시즌 총관중 공식치와 일치 확인). '외지인'은 해당 시군구에 살지 않는 방문자입니다.</p>
@@ -78,7 +101,7 @@
     </div>
   </footer>
 
-  <script src="data/guide-data.js"></script>
-  <script src="assets/app.js"></script>
+  <script src="data/guide-data.js?v=20260929d"></script>
+  <script src="assets/app.js?v=20260929d"></script>
 </body>
 </html>

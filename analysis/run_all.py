@@ -12,6 +12,7 @@ SCRIPTS = ["00_fetch_kbo.py", "00_organize_datalab.py", "01_collect_visitors.py"
            "03_gameday_effect.py", "05_sido_auxiliary.py",
            "09_spending_describe.py", "10_datalab_d2.py",  # 데이터랩 D1·D2 (04·07보다 먼저)
            "11_expected_effect.py",  # D3(국민여행조사 PDF) + 05의 유입 비율
+           "13_diagnosis.py",        # 구장별 진단표 (웹·보고서·findings가 같은 값을 쓴다)
            "04_figures.py",  # 03·05·09의 표를 쓴다
            "06_tourapi_places.py", "07_build_web_data.py", "08_og_image.py"]
 for script in SCRIPTS:

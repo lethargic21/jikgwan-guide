@@ -6,11 +6,30 @@
   var POSTSEASON = { title: "", note: "", teams: [] };
 
   var DATA = window.GUIDE_DATA;
-  if (!DATA) { return; }
+  if (!DATA) { renderLoadError(); return; }
   var stadiums = DATA.stadiums.slice();
   var byId = {};
   stadiums.forEach(function (s) { byId[s.id] = s; });
   var current = null;
+
+  // ---------- 데이터를 못 불러왔을 때 ----------
+  function renderLoadError() {
+    var panel = document.getElementById("stadium-panel");
+    if (!panel) { return; }
+    var retry = document.createElement("button");
+    retry.type = "button";
+    retry.className = "btn-primary";
+    retry.textContent = "다시 시도";
+    retry.addEventListener("click", function () { location.reload(); });
+    var box = document.createElement("div");
+    box.className = "state-card";
+    box.setAttribute("role", "alert");
+    box.innerHTML = '<p class="state-label">불러오기 실패</p><h2 class="state-title">구장 정보를 불러오지 못했어요</h2>' +
+      '<p class="state-text">네트워크가 잠시 불안정했을 수 있어요. 잠시 뒤 다시 시도해 주세요.</p>';
+    box.appendChild(retry);
+    panel.appendChild(box);
+    document.querySelectorAll(".picker, .data").forEach(function (n) { n.hidden = true; });
+  }
 
   // ---------- 측정 (GoatCounter가 붙어 있을 때만) ----------
   function track(path, title) {
@@ -38,6 +57,10 @@
   function fmtDist(m) { return m < 1000 ? m + "m" : (m / 1000).toFixed(1) + "km"; }
   function fmtInt(n) { return Number(n).toLocaleString("ko-KR"); }
   function fmtPct(p) { return (p > 0 ? "+" : "") + p.toFixed(1) + "%"; }
+  function fmtMan(n) { // 10700 → "1만 700명"
+    var man = Math.floor(n / 10000), rest = n % 10000;
+    return (man ? man + "만" + (rest ? " " + fmtInt(rest) : "") : fmtInt(rest)) + "명";
+  }
   function isPS(s) { return POSTSEASON.teams.some(function (t) { return s.teams.indexOf(t) >= 0; }); }
   function mapUrl(place) {
     var parts = (place.addr || "").split(/\s+/);
@@ -55,6 +78,8 @@
     if (sm.share_of_crowd) {
       document.getElementById("fact-extra").textContent = "관중 수의 약 " + sm.share_of_crowd + "%";
     }
+    if (sm.extra_per_game) { document.getElementById("hero-extra").textContent = fmtMan(sm.extra_per_game); }
+    if (sm.stay_share != null) { document.getElementById("fact-stay").textContent = "약 " + sm.stay_share.toFixed(1) + "%"; }
     document.getElementById("gen-date").textContent = DATA.generated;
   }
 
@@ -86,7 +111,7 @@
       });
       b.appendChild(document.createTextNode(short));
       b.appendChild(el("small", { text: s.teams.join("·") }));
-      if (isPS(s)) { b.appendChild(el("span", { className: "ps-badge", "aria-label": "가을야구 진출" })); }
+      if (isPS(s)) { b.appendChild(el("span", { className: "ps-badge", text: "가을야구" })); }
       b.addEventListener("click", function () { select(s.id, "tab"); });
       wrap.appendChild(b);
     });
@@ -107,7 +132,7 @@
       className: "map-link", href: mapUrl(p), target: "_blank", rel: "noopener",
       "aria-label": p.title + " 네이버 지도에서 보기", text: "지도"
     });
-    a.addEventListener("click", function () { track("place/" + s.id + "/" + section, p.title); });
+    a.addEventListener("click", function () { track("map/" + s.id + "/" + section, "지도: " + s.key + " · " + p.title); });
     return el("li", { className: "place" }, [
       el("div", { className: "place-body" }, [
         el("p", { className: "place-title", text: p.title }),
@@ -138,13 +163,17 @@
     panel.appendChild(el("div", { className: "stadium-head" }, [
       el("h2", { text: s.name }),
       el("p", { className: "meta", text: s.teams.join("·") + " 홈 · " + s.sido + " " + s.sigungu }),
-      el("p", { className: "stat" }, [
-        el("span", { className: "big", text: fmtPct(e.pct) }),
-        el("span", { className: "label", text: "홈경기날 " + s.sigungu + " 외지인 방문" })
+      el("div", { className: "scoreboard" }, [
+        el("p", { className: "sb-caption", text: "HOME GAME DAY" }),
+        el("p", { className: "sb-num", text: fmtPct(e.pct) }),
+        el("p", { className: "sb-label", text: "홈경기날 " + s.sigungu + " 외지인 방문" })
       ]),
       el("p", { className: "stat-sub", text: "경기 1회당 약 " + fmtInt(e.extra_per_game) + "명이 더 찾아옵니다 (관중 수의 약 " + e.share_of_crowd + "%)" }),
       el("p", { className: "stat-ci", text: "95% 신뢰구간 " + e.lo.toFixed(1) + "~" + e.hi.toFixed(1) + "% · 2023.1~2026.8 홈경기 " + fmtInt(e.game_days) + "일" })
     ]));
+
+    var courses = el("div", { className: "courses" });
+    panel.appendChild(courses);
 
     var preBody = [];
     if (s.pre_datalab && s.pre_datalab.length) {
@@ -159,9 +188,9 @@
     preBody.push(el("p", { className: "group-label", text: "구장 근처 · 한국관광공사 TourAPI 관광지·문화시설, 가까운 순" }));
     preBody.push(placeList(s, s.pre, "pre"));
     var rankHint = s.datalab_rank ? "데이터랩 기준 이 구장은 " + s.sigungu + " 인기 관광지 " + s.datalab_rank + "위 (2025.9~2026.8)" : "";
-    panel.appendChild(course("경기 전", "한 바퀴 둘러보기", rankHint, preBody));
+    courses.appendChild(course("플레이볼 전", "한 바퀴 둘러보기", rankHint, preBody));
 
-    panel.appendChild(course("경기 후", "늦은 한 끼", "야간경기는 밤늦게 끝납니다. 영업 여부는 출발 전 지도에서 확인하세요 · TourAPI 음식점, 가까운 순",
+    courses.appendChild(course("경기 종료 후", "늦은 한 끼", "야간경기는 밤늦게 끝납니다. 영업 여부는 출발 전 지도에서 확인하세요 · TourAPI 음식점, 가까운 순",
       [placeList(s, s.post, "post")]));
 
     var near = s.stay.filter(function (p) { return p.dist <= 3000; });
@@ -179,7 +208,7 @@
     if (near.length) { stayBody.push(el("p", { className: "group-label", text: "구장 3km 안 · TourAPI 숙박" })); stayBody.push(placeList(s, near, "stay")); }
     if (far.length) { stayBody.push(el("p", { className: "group-label", text: "조금 떨어진 곳 (3km 넘게) · TourAPI 숙박" })); stayBody.push(placeList(s, far, "stay")); }
     if (!stayBody.length) { stayBody.push(placeList(s, [], "stay")); }
-    panel.appendChild(course("하룻밤", "숙소 권역", "경기날 온 외지인은 대부분 그날 떠납니다. 하룻밤 머물면 다음 날 코스가 열립니다.", stayBody));
+    courses.appendChild(course("연장전: 하룻밤", "숙소 권역", "경기날 온 외지인은 대부분 그날 떠납니다. 하룻밤 머물면 다음 날 코스가 열립니다.", stayBody));
   }
 
   // ---------- 데이터 막대 ----------
@@ -200,6 +229,35 @@
       var li = el("li", { className: "bar-row", "data-id": s.id }, [btn]);
       btn.addEventListener("click", function () { select(s.id, "bar"); scrollToPanel(); });
       list.appendChild(li);
+    });
+  }
+
+  // ---------- 구장별 진단표 ----------
+  function renderDiagnosis() {
+    var body = document.getElementById("diag-body");
+    if (!body || !DATA.diagnosis) { return; }
+    body.innerHTML = "";
+    DATA.diagnosis.forEach(function (d) {
+      var m = /^(.*?)\s*\((.*)\)$/.exec(d.quadrant) || [null, d.quadrant, ""];
+      var qcls = d.quadrant.indexOf("체류↑") >= 0 ? "q-up" : (d.quadrant.indexOf("유입↑") >= 0 ? "q-priority" : "q-base");
+      var name = el("button", { type: "button", className: "diag-name", "aria-label": d.stadium + " 가이드 보기" }, [
+        document.createTextNode(d.stadium), el("small", { text: d.sigungu })
+      ]);
+      name.addEventListener("click", function () { select(d.id, "diagnosis"); scrollToPanel(); });
+      function cell(label, main, sub, cls) {
+        return el("td", { "data-label": label, className: cls || "" }, [
+          el("span", { className: "diag-main", text: main }), sub ? el("small", { text: sub }) : null
+        ]);
+      }
+      body.appendChild(el("tr", { "data-id": d.id }, [
+        el("th", { scope: "row" }, [name]),
+        cell("경기일 효과", fmtPct(d.gameday_pct), "95% CI " + d.gameday_lo.toFixed(1) + "~" + d.gameday_hi.toFixed(1)),
+        cell("경기당 외지인", "약 " + fmtInt(d.extra_per_game) + "명"),
+        cell("다음날 잔존", fmtPct(d.nextday_pct), d.nextday_sig ? "유의 (다음날까지 남음)" : "0과 차이 없음"),
+        cell("타 시도 관중 비중", d.away_share, d.away_note, /%$/.test(d.away_share) ? "" : "is-na"),
+        el("td", { "data-label": "유형" }, [el("span", { className: "qtype " + qcls, text: m[1] }), m[2] ? el("small", { text: m[2] }) : null]),
+        el("td", { "data-label": "처방", className: "diag-rx", text: d.prescription })
+      ]));
     });
   }
 
@@ -227,13 +285,15 @@
     });
     renderPanel(s);
     if (history.replaceState) { history.replaceState(null, "", "#" + id); }
-    if (source !== "init") { track("stadium/" + id + "/" + source, s.name); }
+    if (source === "tab" || source === "key") { track("tab/" + id, "구장 탭: " + s.key); }
+    else if (source !== "init") { track("jump/" + source + "/" + id, "이동(" + source + "): " + s.key); }
   }
 
   renderSummary();
   renderPostseason();
   renderChips();
   renderBars();
+  renderDiagnosis();
   var fromHash = (location.hash || "").replace("#", "");
   select(byId[fromHash] ? fromHash : stadiums[0].id, "init");
   window.addEventListener("hashchange", function () {

@@ -168,7 +168,7 @@ def fig_d1_lodging():
     ax.set_xlabel("관광소비 중 숙박업 비중 (%, 숫자=2025년 연간)")
     ax.set_xlim(0, d[["lodging_share_season_pct", "lodging_share_off_pct"]].max().max() + 1.2)
     ax.legend(loc="lower right", frameon=False, fontsize=8)
-    ax.set_title(f"구장 동네 관광소비 중 숙박은 {d.lodging_share_pct.min():.1f}~{d.lodging_share_pct.max():.1f}%", loc="left")
+    ax.set_title(f"구장 소재 시군구 관광소비 중 숙박은 {d.lodging_share_pct.min():.1f}~{d.lodging_share_pct.max():.1f}%", loc="left")
     ax.text(0, -0.16, "서술 통계(보조). 월별 자료라 경기 효과와 계절성이 섞여 있어 인과로 해석하지 않는다.\n"
             "자료: 한국관광 데이터랩 빅데이터 › 신용카드 › 지역별 관광지출액, 2025.1~12, 구장 소재 시군구",
             transform=ax.transAxes, fontsize=7, color=INK2, va="top")
